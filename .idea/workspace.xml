@@ -1,0 +1,1256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b4986579-eccb-4db8-9f92-34ab8ec753e9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.mylyn/repositories.xml.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/0/b01b6bf650550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/0/c0388c6e705600191662ba52b9ae1a14" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/1/f0a1d0a7b85600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/10/30413ad61154001910a2f3501b1ee650" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/10/60127993b75600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/10/e0caca19c2540019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/11/f0dd1defd5540019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/12/00dcd000e85600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/12/b0856389645600191662ba52b9ae1a14" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/13/20a2c2b7c4540019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/13/70a04275b95600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/13/90ac1671835900191f469aa5afaa015e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/13/a03270c5d85600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/13/d0b2bd28b95600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/13/e0a932341654001910a2f3501b1ee650" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/14/c083a0f7d75600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/15/a0985915c3540019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/16/00621d80d4540019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/17/5099c9268d580019107bb0453c9ecfe6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/18/203813e4cd5600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/18/40c2ad10d05600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/18/60f1f52cd15600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/1a/80fe9b284f550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/1a/d00a924251550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/1a/e0ccdd174f550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/1b/2072efe61154001910a2f3501b1ee650" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/1b/708f56804d550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/1b/f020403dd05600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/1c/d03ef1f5635600191662ba52b9ae1a14" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/1d/00c7286a51550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/1d/10e562834d550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/1d/a0234a40c2540019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/1d/d0aa8a21125900191825aaa584d8e0ad" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/1e/50b2f4e7705600191662ba52b9ae1a14" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/1e/b09fdc77ce5600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/1f/e0dadeb3ca5600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/2/303e26fbce5600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/20/9070cbfc4b550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/20/d07ad3b851550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/21/10995e0fe85600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/21/5013944b625600191662ba52b9ae1a14" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/21/e0e56e33125900191825aaa584d8e0ad" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/21/f0949d0f1654001910a2f3501b1ee650" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/22/9053ecd94c550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/23/5020d31d0d5600191287fc7a2d9c3a5d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/23/c0eedda38b580019107bb0453c9ecfe6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/24/d0f70026cc540019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/24/f0e17d43c3540019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/25/901f6785b85600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/27/40c3183a835900191f469aa5afaa015e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/28/10c1768cd05600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/28/60aea60ccf5600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/28/b0294862d55600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/28/f0fae9fee45600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/29/30a60ba5845900191f469aa5afaa015e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/29/b0f5a42d1654001910a2f3501b1ee650" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/2a/90093d56b95600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/2b/50e80d50c5540019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/2b/60c9f0d452550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/2b/90bc3a041754001910a2f3501b1ee650" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/2c/5024caad98580019107bb0453c9ecfe6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/2d/40b3eafab75600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/2f/0049375ab65600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/2f/80fce9ecce5600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/2f/b0460aa893550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/3/40f9a53ccf5600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/3/d0b91049d05600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/30/a056a054845900191f469aa5afaa015e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/31/2057266c1154001910a2f3501b1ee650" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/31/903af07f605600191662ba52b9ae1a14" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/31/a0085137ce5600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/32/a013721eb65600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/32/b0e1e9b54c550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/32/c0c9f1cde75600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/32/e0fed835df5600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/33/b0ae726ab95600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/33/c0c5964251550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/33/e00dee3c135700191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/33/f05a2d581354001910a2f3501b1ee650" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/34/20684a25c3540019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/35/20cb41c6c2540019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/37/4062f1cf92550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/37/e083d8b851550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/39/207d5d281654001910a2f3501b1ee650" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/3a/20ff8c41cb5600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/3a/90b7d6a3c1540019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/3b/50f82265c2540019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/3b/80ac50feb55600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/3c/10ce211fd65600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/3c/502c68c4c6540019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/3e/20d06b0351550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/3e/30d9f13b1654001910a2f3501b1ee650" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/3e/607ec94db95600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/3e/b01489c4dd5600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/3f/00dd7d954c550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/3f/90a4570f1154001910a2f3501b1ee650" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/4/40d9edc9dd5600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/4/603b4e5c645600191662ba52b9ae1a14" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/4/90883725d55600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/40/8041c49f4e550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/41/a01e689a81540019184ca7ee1e61d16b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/41/e0490d7257550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/42/60c8465b625600191662ba52b9ae1a14" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/43/8079d866d05600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/43/d06e7866c5540019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/44/60997e17615600191662ba52b9ae1a14" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/44/70fbdbc8da5600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/44/9006a5ec55550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/47/40058ce0615600191662ba52b9ae1a14" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/47/90090eda92550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/47/9088659381540019184ca7ee1e61d16b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/47/f056c1d9d3540019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/48/30d548e9b35600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/49/308860d5705600191662ba52b9ae1a14" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/49/e0cd7de21654001910a2f3501b1ee650" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/4a/20418a4bd75600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/4a/30c8f274b85600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/4a/d011fd6b51550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/4a/f0dd416f90550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/4b/30c1911090550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/4b/50a5c3ef4d550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/4b/d0ce7047b75600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/4b/e0e06d79c7540019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/4c/60ae05484f550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/4d/2010a0daa2580019107bb0453c9ecfe6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/4d/304ef218d05600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/4d/c0b91d4dd45600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/4d/c0efdd18b85600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/4e/30ef20a048550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/4f/0002960cce5600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/4f/30666ae1d3540019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/4f/602f62ed81540019184ca7ee1e61d16b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/4f/e0e11e06b45600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/51/404e52151654001910a2f3501b1ee650" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/51/70e34a21c4540019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/52/20fee6a68d580019107bb0453c9ecfe6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/52/a0420386c2540019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/52/e0fe1471835900191f469aa5afaa015e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/53/405d538a4e550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/54/1072340fb75600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/54/404cdc72605600191662ba52b9ae1a14" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/54/c002652ad05600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/55/50bba97a0e54001910a2f3501b1ee650" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/56/9070e3ca115900191825aaa584d8e0ad" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/56/90b3cbc8a2580019107bb0453c9ecfe6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/58/606b6128115900191825aaa584d8e0ad" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/58/80832681885900191f469aa5afaa015e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/59/208c61c4b45600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/59/c0a6544a685600191662ba52b9ae1a14" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/5a/407848d44e550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/5a/90efc989db5600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/5a/e0d735a9635600191662ba52b9ae1a14" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/5a/f001ed8d52550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/5b/401c08a4cb540019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/5b/60c092c0a2580019107bb0453c9ecfe6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/5b/c0c456cc135900191825aaa584d8e0ad" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/5c/10bafe48705600191662ba52b9ae1a14" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/5c/801eaadf55550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/5c/f0d566f650550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/5e/409041254c550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/5e/801dbd1f82540019184ca7ee1e61d16b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/5f/5036bd19c2540019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/6/806112201654001910a2f3501b1ee650" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/60/0094ecb15a550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/62/003819b45a550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/63/20251d8dce5600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/63/50283862ce5600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/63/801e6621c2540019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/63/d07ca75c91550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/64/1050dca0a2580019107bb0453c9ecfe6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/64/50583ed751550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/64/e079a850135900191825aaa584d8e0ad" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/65/10683867b55600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/65/40e865dd705600191662ba52b9ae1a14" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/65/f02d0ea453550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/65/f0b00757d75600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/66/503b6934685600191662ba52b9ae1a14" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/67/50354db3e25600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/67/70d370584e550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/68/80eafdc1705600191662ba52b9ae1a14" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/68/d05fd09a51550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/69/c01ece8d93550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/6a/2065495c0e54001910a2f3501b1ee650" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/6a/c0b03dc451550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/6a/f09bc0ea835900191f469aa5afaa015e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/6b/00e6eafb1654001910a2f3501b1ee650" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/6b/7026200eb85600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/6c/20fc2bae635600191662ba52b9ae1a14" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/6c/60154353b75600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/6c/f0b11692645600191662ba52b9ae1a14" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/6d/10bbc2d7c3540019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/6d/8094c86cd85600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/6f/90d7083f845900191f469aa5afaa015e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/7/105d3758c3540019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/7/d0daeaf6d3540019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/70/008e5ecbe25600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/70/10ccb534865900191f469aa5afaa015e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/70/20971e2d865900191f469aa5afaa015e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/70/30a7a603ba5600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/71/20188f7a635600191662ba52b9ae1a14" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/71/40d597dfe55600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/71/a02ef75d105900191825aaa584d8e0ad" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/72/30145d1a90550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/72/801faecdc2540019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/72/e0dddd7ac2540019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/73/4037230b51550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/73/4090331e93550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/74/40f93aaa5a550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/74/d0c23a7b135900191825aaa584d8e0ad" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/75/602d42cbd75600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/75/c0a7835e4d550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/76/a0d0ab7c81540019184ca7ee1e61d16b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/78/30b4746fd4540019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/78/f077e5334d550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/7a/40cc88a5125900191825aaa584d8e0ad" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/7b/70ed1371835900191f469aa5afaa015e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/7b/a0295c20645600191662ba52b9ae1a14" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/7b/a047bad3c2540019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/7c/502bbe75b45600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/7c/a02178ed115900191825aaa584d8e0ad" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/7c/e0d1747393550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/7d/00a767fe125900191825aaa584d8e0ad" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/7d/00afd002b95600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/7e/60c2369d5a550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/7e/d059a10c645600191662ba52b9ae1a14" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/7f/60d14ce0b95600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/8/0016a68c81540019184ca7ee1e61d16b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/80/a0e20d82dd5600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/80/b0846ebae75600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/80/d0c3ae3bd65600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/81/608aac83d05600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/81/60e350021654001910a2f3501b1ee650" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/83/5067573e625600191662ba52b9ae1a14" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/83/808f4860dd5600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/83/909f8ca954550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/83/c06090af195900191825aaa584d8e0ad" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/84/701bc7a74c550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/84/70b6e6dcce5600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/85/505759774c550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/85/a0d1f5ff605600191662ba52b9ae1a14" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/87/50fccae14d550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/88/1078d7c4b75600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/88/c09ac519c2540019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/89/505a52ccd65600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/89/7087caae135900191825aaa584d8e0ad" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/89/70bef05fd05600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/89/b060f520d5540019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/89/b0be0dce51550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/8a/102514cd865900191f469aa5afaa015e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/8a/808861404c550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/8a/c0caaedc53550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/8c/30860cce51550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/8c/e04482e8c6540019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/8c/f0d9305b635600191662ba52b9ae1a14" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/8d/905b46e3675600191662ba52b9ae1a14" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/8d/b0f47f5757550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/9/00612f9b57550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/9/904f55e6c2540019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/90/904dbbe3115900191825aaa584d8e0ad" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/91/f019e842d95600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/92/a0b675c5c4540019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/92/a0c13861c9540019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/92/b012c2eee05600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/94/70237138725600191662ba52b9ae1a14" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/95/c096eac0865900191f469aa5afaa015e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/96/d0f8a07a6b5600191662ba52b9ae1a14" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/97/00a2de4ec3540019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/97/20ca9099a2580019107bb0453c9ecfe6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/97/e05ae8544c550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/98/90b19f824c550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/99/408db965d65600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/99/707c7e17dc5600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/99/c097b94cc6540019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/9a/004c70bdc3540019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/9a/80464c40c2540019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/9b/80b63031715600191662ba52b9ae1a14" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/9c/f0a7b6c0c4540019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/9d/404a0a8893550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/9e/107ec260675600191662ba52b9ae1a14" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/9e/3056834dd05600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/9e/60dad4b851550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/9e/708f58d34d550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/9e/80e9369a52550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/9f/706a76081754001910a2f3501b1ee650" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/9f/90760be181540019184ca7ee1e61d16b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/a/30a9c3ea835900191f469aa5afaa015e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/a/70c72084b95600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/a/e012d6b851550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/a0/b0e332b0e75600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/a1/500ed0bbd85600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/a1/a098432d1254001910a2f3501b1ee650" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/a1/e04e3ce84d550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/a3/a004325f57550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/a3/e0795ccbdc5600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/a4/00c75c6757550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/a4/5041d3d093550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/a5/70582abe8d580019107bb0453c9ecfe6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/a6/6056653dc6540019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/a8/401a238b57550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/a8/409490c0c2540019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/a8/e0c945f7c4540019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/aa/70bb7c2d4e550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/ab/20bb256153550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/ab/20d00ece51550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/ab/403df6a654550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/ac/1047750382540019184ca7ee1e61d16b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/ac/c000e07ac2540019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/ad/504a46014c550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/ad/905747fbca5600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/ad/c08b1feecd5600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/ae/407589b88d580019107bb0453c9ecfe6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/b0/1061489cd65600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/b0/409dc21eb95600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/b1/6092db47875900191f469aa5afaa015e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/b1/d019a679c5540019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/b2/007b9f9c1354001910a2f3501b1ee650" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/b2/f0a581c5635600191662ba52b9ae1a14" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/b3/00b12e50d95600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/b5/e051d95851550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/b6/3055f233c9540019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/b9/a060fe85c2540019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/b9/b06da968c7540019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/ba/7042ed25715600191662ba52b9ae1a14" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/ba/c0184b88d05600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/bb/40fdaf5cce5600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/bb/90c2f4ead65600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/bc/10ab6231b55600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/bc/801eac5051550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/bc/80cb15d0d4540019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/bd/40602065c2540019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/bd/80ace1d1c1540019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/bd/a0630a3acb5600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/bd/a0c78ff7e75600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/be/b0e08f28e85600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/be/d07938e8b75600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/be/f080f974135900191825aaa584d8e0ad" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/c/70b5576ed75600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/c0/b080f8e2ca5600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/c0/e0115a948b580019107bb0453c9ecfe6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/c1/90ba9b47635600191662ba52b9ae1a14" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/c2/90713c86635600191662ba52b9ae1a14" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/c4/3073c07e5a550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/c4/605f5afe1654001910a2f3501b1ee650" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/c4/e0a2944251550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/c5/20512f03b65600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/c5/40630124b95600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/c6/00ebd085835900191f469aa5afaa015e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/c6/5070ad504c550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/c7/a030e3e7c4540019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/c8/d00ded3c135900191825aaa584d8e0ad" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/c8/d07648b5e75600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/c9/1078c9a9a2580019107bb0453c9ecfe6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/c9/e0d537e5685600191662ba52b9ae1a14" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/ca/106e819cb85600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/ca/407dda9893550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/ca/d0463ef381540019184ca7ee1e61d16b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/ca/d056296c135900191825aaa584d8e0ad" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/cb/407f5194ef57001913fdfb6d804bb232" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/cc/40b7494bca540019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/cc/90f0e19157550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/cc/a078bf01625600191662ba52b9ae1a14" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/cc/d0bb28d8635600191662ba52b9ae1a14" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/cd/108838ebc2540019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/cd/b05f9cdf51550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/ce/40d5e2e34c550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/ce/e010f42cb65600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/ce/e0cf5ea5be5600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/cf/5047cdf54b550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/cf/80c52dd5ca5600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/d0/0005c0694f550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/d0/a00f0c77d65600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/d1/10a8b5274d550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/d1/300bba7ad05600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/d1/80585bb4b75600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/d1/a0ce919d135900191825aaa584d8e0ad" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/d1/c0a431c059550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/d2/508f63a4635600191662ba52b9ae1a14" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/d3/2049bc8f835900191f469aa5afaa015e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/d3/400e678e135900191825aaa584d8e0ad" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/d3/505cbc00695600191662ba52b9ae1a14" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/d4/d01b3e741354001910a2f3501b1ee650" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/d4/e0d276f3b95600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/d5/8099f280db5600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/d5/b031f836b75600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/d6/10ee510dc55600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/d6/3010a41e135900191825aaa584d8e0ad" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/d6/5019a708c5540019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/d6/50dbdc44195900191825aaa584d8e0ad" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/d6/b08144b4135900191825aaa584d8e0ad" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/d8/60fba7608f580019107bb0453c9ecfe6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/d9/00fc6eadd75600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/d9/800e84cf635600191662ba52b9ae1a14" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/da/10e08960135900191825aaa584d8e0ad" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/da/309a6d46b85600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/da/9012b240d5540019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/da/90a14beae75600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/dd/10be53fcd3540019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/de/a00521474d550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/e/50c1b5e1e75600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/e/80fbc1ea835900191f469aa5afaa015e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/e0/8010dbc11054001910a2f3501b1ee650" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/e0/f0f9b89d1654001910a2f3501b1ee650" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/e1/d004a007ce5600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/e3/b070f3b8d75600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/e3/b0c39a94c2540019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/e4/707ae1e0705600191662ba52b9ae1a14" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/e4/70dbacb9705600191662ba52b9ae1a14" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/e6/20d12b15115900191825aaa584d8e0ad" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/e6/80b4d3c3c6540019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/e7/50edb40acb5600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/e9/b0b1f474705600191662ba52b9ae1a14" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/ea/10d56ebc1454001910a2f3501b1ee650" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/ea/408322f3b75600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/eb/00768c82705600191662ba52b9ae1a14" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/eb/f0d62591e05600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/ec/30276057d4540019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/ec/90f6acbdd65600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/ee/00bbd58c51550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/ef/f07f03221254001910a2f3501b1ee650" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/f/3010dcf4615600191662ba52b9ae1a14" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/f/3022ff1fc7540019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/f/401112bee75600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/f/a090772cc3540019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/f/b02d963e865900191f469aa5afaa015e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/f2/b0157bd2d75600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/f5/2002ba885a550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/f5/b0dd81e98e550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/f5/c0ef5a9cb75600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/f6/3024730382540019184ca7ee1e61d16b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/f6/a0fd5a5954550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/f6/c03358b6d45600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/f6/e01abbc8b75600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/f7/7060e5a7ce5600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/f8/205dde95b85600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/f8/a0a6b619c2540019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/f9/20ff047f0e54001910a2f3501b1ee650" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/f9/50602a0c4c550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/fb/40c59f1c615600191662ba52b9ae1a14" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/fb/707b6261845900191f469aa5afaa015e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/fb/c0f359a4135900191825aaa584d8e0ad" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/fc/50483eafd85600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/fc/7091934251550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/fc/a05ee4ce0c5600191287fc7a2d9c3a5d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/fe/e0592fcee55600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/fe/f086cc9757550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/ff/a05091deb75600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/ff/d020a98181540019184ca7ee1e61d16b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/ff/d04880a6e75600191b2a8b31f159fcfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/ff/e055d94a51550019113cedc6abc05e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/03LogicalOperators/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/04TernaryOperator/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/05TypeComparisonOperator/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/07AutoboxingUnboxing/.markers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/07AutoboxingUnboxing/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/08WrapperClassesUsefulMethods/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/09NumberAndBooleanClassesMethods/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/10CharacterClassMethods/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/12GarbageCollection/.markers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/12GarbageCollection/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/14Heap/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/16ConstructorOverloading/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/17MethodOverloading/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/20StringComparison/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/21StringIntern/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/23StringMethods/.markers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/23StringMethods/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/25StringSBuilderSBuffer/.markers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/25StringSBuilderSBuffer/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/26StringBuilderMethods/.markers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/26StringBuilderMethods/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/28Enum/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/30DatesAndTimesClassic/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/31DatesAndTimesNew/.markers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/31DatesAndTimesNew/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/32DatesAndTimesNew2/.markers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/32DatesAndTimesNew2/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/34NestedIf/.markers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/34NestedIf/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/36NestedLoops/.markers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/36NestedLoops/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/38ArraysMethods/.markers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/38ArraysMethods/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/39PassingReturningArrays/.markers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/39PassingReturningArrays/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/41MultidimensionalArrays/.markers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/41MultidimensionalArrays/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/43Varargs/.markers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/43Varargs/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/45ArrayListSorting/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/46ArrayListMethods/.markers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/46ArrayListMethods/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/48GenericsMethods/.markers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/48GenericsMethods/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/49GenericsClass/.markers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/49GenericsClass/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/50GenericsWildcardsUpperBounded/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/51GenericsWildcardsLowerBounded/.markers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/51GenericsWildcardsLowerBounded/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/52GenericsWildcardsUnbounded/.markers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/52GenericsWildcardsUnbounded/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/54Lists/.markers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/54Lists/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/55Queues_PriorityQueue/.markers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/55Queues_PriorityQueue/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/56Queues_ArrayDeque/.markers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/56Queues_ArrayDeque/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/57Sets/.markers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/57Sets/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/58Maps/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/60LocalInnerClass/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/61MemberInnerClass/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/62StaticNestedClass/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/63AnonymousInnerClass/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/65ExceptionsA/.indexes/e4/81/e2/21/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/65ExceptionsA/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/65ExceptionsB/.indexes/e4/81/e2/21/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/65ExceptionsB/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/65ExceptionsC/.indexes/e4/81/e2/21/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/65ExceptionsC/.markers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/65ExceptionsC/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/68InheritanceTypes/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/69Polymorphism/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/70AdvancedEncapsulation/.markers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/70AdvancedEncapsulation/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/71EncapsulationWithMutableClasses/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/72JavaBeans/.markers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/72JavaBeans/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/73AbstractionMoreAboutInterface/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/74AbstractionNestedInterface/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/76Serialization/.indexes/e4/81/e2/21/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/76Serialization/.markers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/76Serialization/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/78LambdaExpression/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/79FunctionalInterface/.indexes/e4/81/e2/21/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/79FunctionalInterface/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/81MethodReference/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/82MethodReferenceVsLambda/.markers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/82MethodReferenceVsLambda/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/83forEachWithLambdaAndMethodReference/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/85OptionalOverviewExamples/.indexes/e4/81/e2/21/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/85OptionalOverviewExamples/.markers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/85OptionalOverviewExamples/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/86A_NonOptionalExample/.indexes/e4/81/e2/21/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/86A_NonOptionalExample/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/86B_OptionalExample/.indexes/e4/81/e2/21/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/86B_OptionalExample/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/88OperationOfStream/.indexes/e4/81/e2/21/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/88OperationOfStream/.markers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/88OperationOfStream/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/89StreamMethods/.indexes/e4/81/e2/21/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/89StreamMethods/.markers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/89StreamMethods/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/90FilteringMapWithStream/.indexes/e4/81/e2/21/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/90FilteringMapWithStream/.markers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/90FilteringMapWithStream/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/92SequentialVsParallelStream/.indexes/e4/81/e2/21/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/92SequentialVsParallelStream/.markers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/92SequentialVsParallelStream/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/94MultithreadingCreating1ThreadClass/.indexes/e4/81/e2/21/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/94MultithreadingCreating1ThreadClass/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/94MultithreadingCreating2RunnableInterface/.indexes/e4/81/e2/21/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/94MultithreadingCreating2RunnableInterface/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/95MultithreadingExample1/.indexes/e4/81/e2/21/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/95MultithreadingExample1/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/95MultithreadingExample2/.indexes/e4/81/e2/21/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/95MultithreadingExample2/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/97Synchronized/.indexes/e4/81/e2/21/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/97Synchronized/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/98SynchronizedBlock/.indexes/e4/81/e2/21/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/98SynchronizedBlock/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/99SynchronizedWaitNotify/.indexes/e4/81/e2/21/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.projects/99SynchronizedWaitNotify/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.root/70.tree" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (1).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (10).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (100).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (101).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (102).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (103).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (104).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (105).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (106).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (107).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (108).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (109).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (11).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (110).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (111).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (112).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (113).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (114).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (115).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (116).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (117).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (118).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (119).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (12).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (120).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (121).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (122).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (123).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (124).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (125).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (126).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (127).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (128).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (129).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (13).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (130).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (131).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (132).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (133).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (134).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (14).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (15).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (16).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (17).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (18).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (19).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (2).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (20).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (21).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (22).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (23).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (24).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (25).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (26).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (27).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (28).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (29).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (3).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (30).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (31).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (32).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (33).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (34).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (35).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (36).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (37).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (38).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (39).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (4).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (40).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (41).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (42).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (43).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (44).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (45).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (46).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (47).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (48).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (49).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (5).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (50).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (51).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (52).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (53).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (54).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (55).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (56).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (57).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (58).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (59).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (6).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (60).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (61).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (62).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (63).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (64).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (65).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (66).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (67).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (68).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (69).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (7).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (70).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (71).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (72).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (73).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (74).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (75).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (76).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (77).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (78).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (79).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (8).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (80).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (81).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (82).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (83).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (84).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (85).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (86).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (87).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (88).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (89).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (9).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (90).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (91).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (92).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (93).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (94).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (95).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (96).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (97).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (98).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App (99).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/App.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/DemoWait.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/Depersist.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/My_class (78).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/My_class.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/NonOptional (101).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/NonOptionalExample (1).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/NonOptionalExample (2).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/NonOptionalExample.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/OptionalClass (1).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/OptionalClass.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/OptionalExample (1).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/OptionalExample (102).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/OptionalExample.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/Serialization (101).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.core/.launches/ThreadA (131).launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.ui/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/1070780467.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/1103755439.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/1229547788.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/1256880154.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/1259047163.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/1295926538.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/1364017643.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/1399120948.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/1521842531.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/1541871137.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/1639057034.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/1648956411.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/1650124405.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/1717073209.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/1778745934.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/1785840823.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/1832645979.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/1833462385.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/184018596.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/1998305937.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/2015473841.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/2057781603.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/2109284633.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/2150981744.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/2200400495.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/2215371618.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/2294337923.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/232698130.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/2353931491.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/2356732060.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/2421382525.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/2537295789.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/2598915730.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/2656138628.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/266176915.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/2691093126.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/2805672478.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/2842528100.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/3058163361.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/3223568243.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/3227126793.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/3242226210.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/3286965756.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/3334106032.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/334301716.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/3368797150.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/3388371654.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/3485219392.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/3546087747.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/3566460777.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/3569178479.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/3607466999.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/3636504853.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/3648760922.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/3656136680.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/3675087153.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/3727885739.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/3737240624.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/3909583444.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/3980071577.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/4074990111.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/409453468.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/4099920670.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/411525108.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/4144630516.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/4266430149.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/486716120.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/525038944.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/597598653.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/726965190.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/775083823.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/849146908.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/898621404.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/assumedExternalFilesCache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/index.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/javaLikeNames.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.debug.ui/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.launching/.install.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2019/2/7/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2019/2/7/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2019/2/8/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2019/2/8/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2019/2/9/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2019/2/9/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2019/3/10/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2019/3/10/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2019/3/11/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2019/3/11/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2019/3/12/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2019/3/12/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2019/3/13/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2019/3/13/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2019/3/9/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2019/3/9/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2019/4/14/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2019/4/14/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/03LogicalOperators/2019/2/7/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/03LogicalOperators/2019/2/7/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/04TernaryOperator/2019/2/7/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/04TernaryOperator/2019/2/7/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/05TypeComparisonOperator/2019/2/7/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/05TypeComparisonOperator/2019/2/7/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/12GarbageCollection/2019/2/9/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/12GarbageCollection/2019/2/9/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/14Heap/2019/2/9/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/14Heap/2019/2/9/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/16ConstructorOverloading/2019/3/12/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/16ConstructorOverloading/2019/3/12/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/17MethodOverloading/2019/3/12/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/17MethodOverloading/2019/3/12/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/20StringComparison/2019/2/9/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/20StringComparison/2019/2/9/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/28Enum/2019/3/10/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/28Enum/2019/3/10/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/45GenericsWildcardsUpperB/2019/3/11/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/45GenericsWildcardsUpperB/2019/3/11/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/49GenericsClass/2019/3/11/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/49GenericsClass/2019/3/11/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/50GenericsWildcardsUpperBounded/2019/3/11/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/50GenericsWildcardsUpperBounded/2019/3/11/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/51GenericsWildcardsLowerBounded/2019/3/11/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/51GenericsWildcardsLowerBounded/2019/3/11/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/52GenericsWildcardsUnbounded/2019/3/11/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/52GenericsWildcardsUnbounded/2019/3/11/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/56Queues_ArrayDeque/2019/3/12/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/56Queues_ArrayDeque/2019/3/12/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/59InnerClass/2019/3/12/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/59InnerClass/2019/3/12/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/60LocalInnerClass/2019/3/12/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/60LocalInnerClass/2019/3/12/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/61MemberInnerClass/2019/3/12/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/61MemberInnerClass/2019/3/12/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/62StaticNestedClass/2019/3/12/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/62StaticNestedClass/2019/3/12/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/63AnonymousInnerClass/2019/3/12/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/63AnonymousInnerClass/2019/3/12/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/65ExceptionsA/2019/4/14/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/65ExceptionsA/2019/4/14/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/65ExceptionsC/2019/4/14/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/65ExceptionsC/2019/4/14/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/68InheritanceTypes/2019/3/13/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/68InheritanceTypes/2019/3/13/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/69Polymorphism/2019/3/13/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/69Polymorphism/2019/3/13/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/70AdvancedEncapsulation/2019/3/13/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/70AdvancedEncapsulation/2019/3/13/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/71EncapsulationWithMutableClasses/2019/3/13/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/71EncapsulationWithMutableClasses/2019/3/13/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/72JavaBeans/2019/3/13/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/72JavaBeans/2019/3/13/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/73AbstractionMoreAboutInterface/2019/3/13/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/73AbstractionMoreAboutInterface/2019/3/13/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/74AbstractionNestedInterface/2019/3/13/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/74AbstractionNestedInterface/2019/3/13/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/74Lambda/2019/3/13/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/74Lambda/2019/3/13/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/76Serialization/2019/4/14/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/76Serialization/2019/4/14/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/78LambdaExpression/2019/3/13/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/78LambdaExpression/2019/3/13/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/79FunctionalInterface/2019/4/14/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/79FunctionalInterface/2019/4/14/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/81MethodReference/2019/3/13/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/81MethodReference/2019/3/13/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/82MethodReferenceVsLambda/2019/3/13/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/82MethodReferenceVsLambda/2019/3/13/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/85OptionalOverviewExamples/2019/3/13/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/85OptionalOverviewExamples/2019/3/13/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/85OptionalOverviewExamples/2019/4/14/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/85OptionalOverviewExamples/2019/4/14/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/86A_NonOptionalExample/2019/3/13/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/86A_NonOptionalExample/2019/3/13/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/86B_OptionalExample/2019/3/13/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/86B_OptionalExample/2019/3/13/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/89StreamMethods/2019/4/14/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/89StreamMethods/2019/4/14/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/92SequentialVsParallelStream/2019/4/14/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/92SequentialVsParallelStream/2019/4/14/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/98SynchronizedBlock/2019/4/14/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/98SynchronizedBlock/2019/4/14/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/99OverloadingVsOverriding/2019/3/12/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/99OverloadingVsOverriding/2019/3/12/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/99SynchronizedWaitNotify/2019/4/14/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/99SynchronizedWaitNotify/2019/4/14/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/99SynchronizedWaitNotify2/2019/4/14/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/99SynchronizedWaitNotify2/2019/4/14/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/99VConstructorOverloading2/2019/3/12/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/99VConstructorOverloading2/2019/3/12/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ltk.ui.refactoring/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.10.0.20181127-2120.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.rse.core/.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.rse.core/initializerMarks/org.eclipse.rse.internal.core.RSELocalConnectionInitializer.mark" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.tips.ide/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ui.intro/introstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ui.workbench.texteditor/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.wst.common.snippets/hidden.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.wst.common.snippets/user.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.wst.jsdt.core/externalLibsTimeStamps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/baseBrowserLibrary.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/browserWindow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/dom5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/system.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/xhr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.wst.jsdt.core/variablesAndContainers.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.wst.jsdt.ui/OpenTypeHistory.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.wst.jsdt.ui/QualifiedTypeNameHistory.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.wst.sse.core/task-tags.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/.metadata/version.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/01Introduction.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/02MoreAboutOperators.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/03LogicalOperators/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/04TernaryOperator/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/05TypeComparisonOperator/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/05TypeComparisonOperator/src/com/udemy/app/ChildClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/06WrapperClasses.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/07AutoboxingUnboxing/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/08WrapperClassesUsefulMethods/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/09NumberAndBooleanClassesMethods/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/10CharacterClassMethods/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/11GarbageCollection.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/12GarbageCollection/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/12GarbageCollection/src/com/udemy/app/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/13JavaHeapAndStackMemory.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/14Heap/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/15MoreAoutConstructors.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/16ConstructorOverloading/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/16ConstructorOverloading/src/com/udemy/app/House.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/17MethodOverloading/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/18OverridingVsOverloading.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/19MoreAboutStrings_String'sCreation.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/20StringComparison/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/21StringIntern/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/22MoreAboutStrings_StringImmutability.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/23StringMethods/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/24StringBufferAndStringBuilder.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/25StringSBuilderSBuffer/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/26StringBuilderMethods/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/27Enum.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/28Enum/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/28Enum/src/com/udemy/app/Day.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/29DatesAndTimes.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/30DatesAndTimesClassic/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/31DatesAndTimesNew/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/32DatesAndTimesNew2/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/33MoreAboutConditionalStatements.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/34NestedIf/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/35MoreAboutLoops.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/36NestedLoops/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/37MoreAboutArray.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/38ArraysMethods/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/39PassingReturningArrays/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/40MultidimensionalArray.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/41MultidimensionalArrays/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/42Varargs.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/43Varargs/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/44ArrayList.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/45ArrayListSorting/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/46ArrayListMethods/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/47Generics.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/48GenericsMethods/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/49GenericsClass/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/50GenericsWildcardsUpperBounded/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/51GenericsWildcardsLowerBounded/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/52GenericsWildcardsUnbounded/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/53CollectionFramework.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/54Lists/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/55Queues_PriorityQueue/src/com/udemy/app/AccessCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/55Queues_PriorityQueue/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/56Queues_ArrayDeque/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/57Sets/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/58Maps/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/59NestedClass.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/60LocalInnerClass/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/60LocalInnerClass/src/com/udemy/app/OuterClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/61MemberInnerClass/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/61MemberInnerClass/src/com/udemy/app/OuterClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/62StaticNestedClass/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/62StaticNestedClass/src/com/udemy/app/OuterClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/63AnonymousInnerClass/src/com/udemy/app/AbstractClassForAnonymousClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/63AnonymousInnerClass/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/63AnonymousInnerClass/src/com/udemy/app/InterfaceForAnonymousClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/63AnonymousInnerClass/src/com/udemy/app/WithoutAnonimous.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/64Exceptions.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/64Exceptions/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/65ExceptionsA/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/65ExceptionsB/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/65ExceptionsC/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/65ExceptionsC/src/com/udemy/app/ExceptionChild.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/65ExceptionsC/src/com/udemy/app/ExceptionParent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/66Differencebetween final, finally and finalize.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/67MoreAboutOOP.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/68InheritanceTypes/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/68InheritanceTypes/src/com/udemy/app/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/68InheritanceTypes/src/com/udemy/app/Child2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/68InheritanceTypes/src/com/udemy/app/Grandchild.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/68InheritanceTypes/src/com/udemy/app/HybridInheritanceClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/68InheritanceTypes/src/com/udemy/app/Interface1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/68InheritanceTypes/src/com/udemy/app/Interface2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/68InheritanceTypes/src/com/udemy/app/Interface3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/68InheritanceTypes/src/com/udemy/app/MultipleInheritanceClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/68InheritanceTypes/src/com/udemy/app/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/69Polymorphism/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/69Polymorphism/src/com/udemy/app/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/69Polymorphism/src/com/udemy/app/GrandChild.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/69Polymorphism/src/com/udemy/app/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/70AdvancedEncapsulation/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/70AdvancedEncapsulation/src/com/udemy/app/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/71EncapsulationWithMutableClasses/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/71EncapsulationWithMutableClasses/src/com/udemy/app/Cars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/72JavaBeans/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/72JavaBeans/src/com/udemy/app/JavaBeanExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/73AbstractionMoreAboutInterface/src/com/udemy/app/AnotherInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/73AbstractionMoreAboutInterface/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/73AbstractionMoreAboutInterface/src/com/udemy/app/ModernInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/74AbstractionNestedInterface/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/74AbstractionNestedInterface/src/com/udemy/app/OuterClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/74AbstractionNestedInterface/src/com/udemy/app/OuterInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/75Serialization.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/76Serialization/f.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/76Serialization/src/com/udemy/app/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/76Serialization/src/com/udemy/app/Ford.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/76Serialization/src/com/udemy/app/Serialization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/77LambdaAndFunctionalInterface.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/78LambdaExpression/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/78LambdaExpression/src/com/udemy/app/Greatings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/78LambdaExpression/src/com/udemy/app/Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/79FunctionalInterface/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/79FunctionalInterface/src/com/udemy/app/Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/80MethodReference.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/81MethodReference/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/81MethodReference/src/com/udemy/app/MessageClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/82MethodReferenceVsLambda/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/82MethodReferenceVsLambda/src/com/udemy/app/Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/83forEachWithLambdaAndMethodReference/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/84Optional.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/85OptionalOverviewExamples/src/com/udemy/app/OptionalClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/85OptionalOverviewExamples/src/com/udemy/app/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/86A_NonOptionalExample/src/com/udemy/app/NonOptionalExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/86A_NonOptionalExample/src/com/udemy/app/Passport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/86A_NonOptionalExample/src/com/udemy/app/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/86A_NonOptionalExample/src/com/udemy/app/Stamp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/86B_OptionalExample/src/com/udemy/app/OptionalExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/86B_OptionalExample/src/com/udemy/app/Passport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/86B_OptionalExample/src/com/udemy/app/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/86B_OptionalExample/src/com/udemy/app/Stamp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/86Optional_map_ECLIPSE-s_lecturen_ belül_mutatás.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/87Stream.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/88OperationOfStream/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/89StreamMethods/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/90FilteringMapWithStream/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/91ParallelStream.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/92SequentialVsParallelStream/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/93Multithreading.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/94MultithreadingCreating1ThreadClass/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/94MultithreadingCreating2RunnableInterface/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/95MultithreadingExample1/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/95MultithreadingExample2/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/96Synchronization.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/97Synchronized/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/98SynchronizedBlock/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/99SynchronizedWaitNotify/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_materials/99SynchronizedWaitNotify4/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m14Heap/m14Heap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m14Heap/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m16ConstructorOverloading/m16ConstructorOverloading.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m16ConstructorOverloading/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m16ConstructorOverloading/src/com/udemy/app/House.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m17MethodOverloading/m17MethodOverloading.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m17MethodOverloading/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m18OverloadingVsOverriding/m18OverloadingVsOverriding.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bbj/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bbj/app/S03_wrapperClasses/S3App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bbj/app/s02_operators/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bbj/app/s02_operators/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bbj/app/s02_operators/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bbj/app/s02_operators/Mammal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bbj/app/s02_operators/S2App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bbj/app/s04_gc/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bbj/app/s04_gc/S4App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemyJavaAtoZ.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2G5ofonHHh2JGftoEL7XvZnb7iy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "19",
+    "last_opened_file_path": "/home/bbj/learn/udemyJavaAtoZ/udemyJavaAtoZ/m17MethodOverloading/src",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/m17MethodOverloading/src" />
+      <recent name="$PROJECT_DIR$/m16ConstructorOverloading/src" />
+      <recent name="$PROJECT_DIR$/m14Heap/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.com.udemy.app.App (1)">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bbj.app.App" />
+      <module name="udemyJavaAtoZ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bbj.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.udemy.app.App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.udemy.app.App" />
+      <module name="m16ConstructorOverloading" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.udemy.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.udemy.app.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.udemy.app.App" />
+      <module name="m14Heap" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.udemy.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.com.udemy.app.App (1)" />
+        <item itemvalue="Application.com.udemy.app.App" />
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4986579-eccb-4db8-9f92-34ab8ec753e9" name="Changes" comment="" />
+      <created>1665687916591</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665687916591</updated>
+      <workItem from="1665687917783" duration="23456000" />
+      <workItem from="1665791291466" duration="4680000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
