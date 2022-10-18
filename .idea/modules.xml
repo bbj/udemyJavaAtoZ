@@ -5,7 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/m14Heap/m14Heap.iml" filepath="$PROJECT_DIR$/m14Heap/m14Heap.iml" />
       <module fileurl="file://$PROJECT_DIR$/m16ConstructorOverloading/m16ConstructorOverloading.iml" filepath="$PROJECT_DIR$/m16ConstructorOverloading/m16ConstructorOverloading.iml" />
       <module fileurl="file://$PROJECT_DIR$/m17MethodOverloading/m17MethodOverloading.iml" filepath="$PROJECT_DIR$/m17MethodOverloading/m17MethodOverloading.iml" />
-      <module fileurl="file://$PROJECT_DIR$/m18OverloadingVsOverriding/m18OverloadingVsOverriding.iml" filepath="$PROJECT_DIR$/m18OverloadingVsOverriding/m18OverloadingVsOverriding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m20StringComparison/m20StringComparison.iml" filepath="$PROJECT_DIR$/m20StringComparison/m20StringComparison.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m21StringIntern/m21StringIntern.iml" filepath="$PROJECT_DIR$/m21StringIntern/m21StringIntern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m22StringMethods/m22StringMethods.iml" filepath="$PROJECT_DIR$/m22StringMethods/m22StringMethods.iml" />
       <module fileurl="file://$PROJECT_DIR$/udemyJavaAtoZ.iml" filepath="$PROJECT_DIR$/udemyJavaAtoZ.iml" />
     </modules>
   </component>
