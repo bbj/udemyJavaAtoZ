@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b4986579-eccb-4db8-9f92-34ab8ec753e9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/m20StringComparison/src/com/udemy/app/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m21StringIntern/m21StringIntern.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m21StringIntern/src/com/udemy/app/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m22StringMethods/m22StringMethods.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m22StringMethods/src/com/udemy/app/App.java" afterDir="false" />
+    <list default="true" id="b4986579-eccb-4db8-9f92-34ab8ec753e9" name="Changes" comment="25. StringBuilder examples">
+      <change afterPath="$PROJECT_DIR$/m25StringBuilderAndBuffer/src/com/udemy/app/App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m18OverloadingVsOverriding/m18OverloadingVsOverriding.iml" beforeDir="false" afterPath="$PROJECT_DIR$/m20StringComparison/m20StringComparison.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +41,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "19",
-    "last_opened_file_path": "/home/bbj/IdeaProjects/udemyJavaAtoZ/m22StringMethods/src",
+    "last_opened_file_path": "/home/bbj/IdeaProjects/udemyJavaAtoZ/m25StringBuilderAndBuffer/src",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
@@ -55,27 +50,14 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/m25StringBuilderAndBuffer/src" />
       <recent name="$PROJECT_DIR$/m22StringMethods/src" />
       <recent name="$PROJECT_DIR$/m20StringIntern/src" />
       <recent name="$PROJECT_DIR$/m20StringComparison/src" />
       <recent name="$PROJECT_DIR$/m17MethodOverloading/src" />
-      <recent name="$PROJECT_DIR$/m16ConstructorOverloading/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.udemy.app.App (3)">
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bbj.app.App" />
-      <module name="udemyJavaAtoZ" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.bbj.app.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.com.udemy.app.App (4)">
     <configuration name="com.udemy.app.App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.udemy.app.App" />
       <module name="m16ConstructorOverloading" />
@@ -115,6 +97,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.udemy.app.App (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.udemy.app.App" />
+      <module name="m25StringBuilderAndBuffer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.udemy.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="com.udemy.app.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.udemy.app.App" />
       <module name="m14Heap" />
@@ -130,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.udemy.app.App (4)" />
         <item itemvalue="Application.com.udemy.app.App (3)" />
         <item itemvalue="Application.com.udemy.app.App (2)" />
         <item itemvalue="Application.com.udemy.app.App (1)" />
         <item itemvalue="Application.com.udemy.app.App" />
-        <item itemvalue="Application.App" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +144,7 @@
       <workItem from="1665687917783" duration="23456000" />
       <workItem from="1665791291466" duration="9012000" />
       <workItem from="1665862297272" duration="20000" />
-      <workItem from="1666042421759" duration="7313000" />
+      <workItem from="1666042421759" duration="9812000" />
     </task>
     <task id="LOCAL-00001" summary="adding source code">
       <created>1665797506147</created>
@@ -158,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665797506148</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="m22StringMethods">
+      <created>1666053622419</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666053622419</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -178,6 +180,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="adding source code" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding source code" />
+    <MESSAGE value="m22StringMethods" />
+    <MESSAGE value="25. StringBuilder examples" />
+    <option name="LAST_COMMIT_MESSAGE" value="25. StringBuilder examples" />
   </component>
 </project>
