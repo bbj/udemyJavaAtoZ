@@ -2,28 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4986579-eccb-4db8-9f92-34ab8ec753e9" name="Changes" comment="25. StringBuilder examples">
-      <change afterPath="$PROJECT_DIR$/m27EnumsExample/m27EnumsExample.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m27EnumsExample/src/com/udemy/app/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m27EnumsExample/src/com/udemy/app/Day.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m29DateAndTimeClassic/m29DateAndTimeClassic.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m29DateAndTimeClassic/src/com/udemy/app/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m30DataAndTimeNew/m30DataAndTimeNew.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m30DataAndTimeNew/src/com/udemy/app/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m36ArrayMethods/m36ArrayMethods.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m36ArrayMethods/src/com/udemy/app/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m37PassingReturningArrays/m37PassingReturningArrays.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m37PassingReturningArrays/src/com/udemy/app/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m39MultidimensionalArrays/m39MultidimensionalArrays.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m39MultidimensionalArrays/src/com/udemy/app/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m41Varargs/m41Varargs.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m41Varargs/src/com/udemy/app/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m43ArrayLists/m43ArrayLists.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m43ArrayLists/src/com/udemy/app/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m45GenericMethods/m45GenericMethods.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m45GenericMethods/src/com/bbj/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m45GenericMethods/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m46GenericClasses/m46GenericClasses.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m46GenericClasses/src/com/bbj/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bbj/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bbj/app/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bbj/app/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bbj/app/s02_operators/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bbj/app/s02_operators/Cat.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +49,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "19",
+    "last_directory_selection": "/home/bbj/IdeaProjects/udemyJavaAtoZ/src/com/bbj",
     "last_opened_file_path": "/home/bbj/IdeaProjects/udemyJavaAtoZ/m45GenericMethods/src",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
@@ -80,7 +66,7 @@
       <recent name="$PROJECT_DIR$/m37PassingReturningArrays/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.bbj.App">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.udemy.app.App" />
       <module name="m43ArrayLists" />
@@ -107,9 +93,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="App (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.udemy.app.App" />
-      <module name="m39MultidimensionalArrays" />
+      <module name="m41Varargs" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.udemy.app.*" />
@@ -120,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.udemy.app.App" />
-      <module name="m41Varargs" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bbj.Main" />
+      <module name="m46GenericClasses" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.udemy.app.*" />
+          <option name="PATTERN" value="com.bbj.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.com.bbj.App" />
         <item itemvalue="Application.App (2)" />
         <item itemvalue="Application.App (1)" />
         <item itemvalue="Application.App" />
-        <item itemvalue="Application.App (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -170,7 +156,7 @@
       <workItem from="1666042421759" duration="11485000" />
       <workItem from="1666137476335" duration="5426000" />
       <workItem from="1666195139241" duration="16363000" />
-      <workItem from="1666318501066" duration="3143000" />
+      <workItem from="1666318501066" duration="4974000" />
     </task>
     <task id="LOCAL-00001" summary="adding source code">
       <created>1665797506147</created>

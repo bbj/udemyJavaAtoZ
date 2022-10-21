@@ -1,7 +1,5 @@
 package com.bbj.app;
 
-import com.bbj.app.S03_wrapperClasses.S3App;
-import com.bbj.app.s02_operators.S2App;
 import com.bbj.app.s04_gc.S4App;
 
 public class App {

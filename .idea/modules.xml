@@ -18,6 +18,7 @@
       <module fileurl="file://$PROJECT_DIR$/m41Varargs/m41Varargs.iml" filepath="$PROJECT_DIR$/m41Varargs/m41Varargs.iml" />
       <module fileurl="file://$PROJECT_DIR$/m43ArrayLists/m43ArrayLists.iml" filepath="$PROJECT_DIR$/m43ArrayLists/m43ArrayLists.iml" />
       <module fileurl="file://$PROJECT_DIR$/m45GenericMethods/m45GenericMethods.iml" filepath="$PROJECT_DIR$/m45GenericMethods/m45GenericMethods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m46GenericClasses/m46GenericClasses.iml" filepath="$PROJECT_DIR$/m46GenericClasses/m46GenericClasses.iml" />
       <module fileurl="file://$PROJECT_DIR$/udemyJavaAtoZ.iml" filepath="$PROJECT_DIR$/udemyJavaAtoZ.iml" />
     </modules>
   </component>
