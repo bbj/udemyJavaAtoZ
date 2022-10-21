@@ -2,7 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4986579-eccb-4db8-9f92-34ab8ec753e9" name="Changes" comment="25. StringBuilder examples">
-      <change afterPath="$PROJECT_DIR$/m25StringBuilderAndBuffer/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m27EnumsExample/m27EnumsExample.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m27EnumsExample/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m27EnumsExample/src/com/udemy/app/Day.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m29DateAndTimeClassic/m29DateAndTimeClassic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m29DateAndTimeClassic/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m30DataAndTimeNew/m30DataAndTimeNew.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m30DataAndTimeNew/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m36ArrayMethods/m36ArrayMethods.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m36ArrayMethods/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m37PassingReturningArrays/m37PassingReturningArrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m37PassingReturningArrays/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m39MultidimensionalArrays/m39MultidimensionalArrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m39MultidimensionalArrays/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m41Varargs/m41Varargs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m41Varargs/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m43ArrayLists/m43ArrayLists.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m43ArrayLists/src/com/udemy/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m45GenericMethods/m45GenericMethods.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m45GenericMethods/src/com/bbj/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m45GenericMethods/src/com/udemy/app/App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -25,6 +44,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2G5ofonHHh2JGftoEL7XvZnb7iy" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -36,12 +58,13 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "19",
-    "last_opened_file_path": "/home/bbj/IdeaProjects/udemyJavaAtoZ/m25StringBuilderAndBuffer/src",
+    "last_opened_file_path": "/home/bbj/IdeaProjects/udemyJavaAtoZ/m45GenericMethods/src",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
@@ -50,17 +73,17 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/m25StringBuilderAndBuffer/src" />
-      <recent name="$PROJECT_DIR$/m22StringMethods/src" />
-      <recent name="$PROJECT_DIR$/m20StringIntern/src" />
-      <recent name="$PROJECT_DIR$/m20StringComparison/src" />
-      <recent name="$PROJECT_DIR$/m17MethodOverloading/src" />
+      <recent name="$PROJECT_DIR$/m45GenericMethods/src" />
+      <recent name="$PROJECT_DIR$/m43ArrayLists/src" />
+      <recent name="$PROJECT_DIR$/m41Varargs/src" />
+      <recent name="$PROJECT_DIR$/m39MultidimensionalArrays/src" />
+      <recent name="$PROJECT_DIR$/m37PassingReturningArrays/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.udemy.app.App (4)">
-    <configuration name="com.udemy.app.App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.com.bbj.App">
+    <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.udemy.app.App" />
-      <module name="m16ConstructorOverloading" />
+      <module name="m43ArrayLists" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.udemy.app.*" />
@@ -71,9 +94,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.udemy.app.App (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="App (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.udemy.app.App" />
-      <module name="m21StringIntern" />
+      <module name="m45GenericMethods" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.udemy.app.*" />
@@ -84,9 +107,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.udemy.app.App (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="App (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.udemy.app.App" />
-      <module name="m22StringMethods" />
+      <module name="m39MultidimensionalArrays" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.udemy.app.*" />
@@ -97,9 +120,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.udemy.app.App (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.udemy.app.App" />
-      <module name="m25StringBuilderAndBuffer" />
+      <module name="m41Varargs" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.udemy.app.*" />
@@ -110,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.udemy.app.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.udemy.app.App" />
-      <module name="m14Heap" />
+    <configuration name="com.bbj.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bbj.App" />
+      <module name="m45GenericMethods" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.udemy.app.*" />
+          <option name="PATTERN" value="com.bbj.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.com.udemy.app.App (4)" />
-        <item itemvalue="Application.com.udemy.app.App (3)" />
-        <item itemvalue="Application.com.udemy.app.App (2)" />
-        <item itemvalue="Application.com.udemy.app.App (1)" />
-        <item itemvalue="Application.com.udemy.app.App" />
+        <item itemvalue="Application.com.bbj.App" />
+        <item itemvalue="Application.App (2)" />
+        <item itemvalue="Application.App (1)" />
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.App (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -144,7 +167,10 @@
       <workItem from="1665687917783" duration="23456000" />
       <workItem from="1665791291466" duration="9012000" />
       <workItem from="1665862297272" duration="20000" />
-      <workItem from="1666042421759" duration="9812000" />
+      <workItem from="1666042421759" duration="11485000" />
+      <workItem from="1666137476335" duration="5426000" />
+      <workItem from="1666195139241" duration="16363000" />
+      <workItem from="1666318501066" duration="3143000" />
     </task>
     <task id="LOCAL-00001" summary="adding source code">
       <created>1665797506147</created>
@@ -160,7 +186,21 @@
       <option name="project" value="LOCAL" />
       <updated>1666053622419</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="25. StringBuilder examples">
+      <created>1666057518960</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666057518960</updated>
+    </task>
+    <task id="LOCAL-00004" summary="25. StringBuilder examples">
+      <created>1666057655431</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666057655431</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -178,6 +218,8 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="adding source code" />
     <MESSAGE value="m22StringMethods" />
