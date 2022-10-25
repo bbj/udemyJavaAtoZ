@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b4986579-eccb-4db8-9f92-34ab8ec753e9" name="Changes" comment="46. Generic classes">
-      <change afterPath="$PROJECT_DIR$/m48GenericBoundedWildcards/m48GenericBoundedWildcards.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m48GenericBoundedWildcards/src/Main.java" afterDir="false" />
+    <list default="true" id="b4986579-eccb-4db8-9f92-34ab8ec753e9" name="Changes" comment="48. Generic upper bounded wildcards">
+      <change afterPath="$PROJECT_DIR$/m52ArrayListAndLinkedList/m52ArrayListAndLinkedList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m52ArrayListAndLinkedList/src/com/bbj/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m52ArrayListAndLinkedList/src/com/udemy/app/App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -27,7 +28,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectId" id="2G5ofonHHh2JGftoEL7XvZnb7iy" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -37,36 +38,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;,
-    &quot;last_directory_selection&quot;: &quot;/home/bbj/IdeaProjects/udemyJavaAtoZ/src/com/bbj&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/bbj/Sync/IdeaProjects/udemyJavaAtoZ&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "19",
+    "last_directory_selection": "/home/bbj/IdeaProjects/udemyJavaAtoZ/src/com/bbj",
+    "last_opened_file_path": "/home/bbj/Sync/IdeaProjects/udemyJavaAtoZ/m52ArrayListAndLinkedList/src",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "Errors"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/m52ArrayListAndLinkedList/src" />
       <recent name="$PROJECT_DIR$/m45GenericMethods/src" />
       <recent name="$PROJECT_DIR$/m43ArrayLists/src" />
       <recent name="$PROJECT_DIR$/m41Varargs/src" />
       <recent name="$PROJECT_DIR$/m39MultidimensionalArrays/src" />
-      <recent name="$PROJECT_DIR$/m37PassingReturningArrays/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
-    <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.udemy.app.App" />
-      <module name="m43ArrayLists" />
+      <module name="m45GenericMethods" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.udemy.app.*" />
@@ -77,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="App (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.udemy.app.App" />
-      <module name="m45GenericMethods" />
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bbj.App" />
+      <module name="m52ArrayListAndLinkedList" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.udemy.app.*" />
+          <option name="PATTERN" value="com.bbj.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.App" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.com.bbj.App" />
         <item itemvalue="Application.App (2)" />
-        <item itemvalue="Application.App (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -153,7 +155,7 @@
       <workItem from="1666398860525" duration="5028000" />
       <workItem from="1666459278387" duration="610000" />
       <workItem from="1666474028680" duration="1000" />
-      <workItem from="1666662685950" duration="654000" />
+      <workItem from="1666662685950" duration="2945000" />
     </task>
     <task id="LOCAL-00001" summary="adding source code">
       <created>1665797506147</created>
@@ -190,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666371185144</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="48. Generic upper bounded wildcards">
+      <created>1666665027970</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1666665027970</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -215,6 +224,7 @@
     <MESSAGE value="m22StringMethods" />
     <MESSAGE value="25. StringBuilder examples" />
     <MESSAGE value="46. Generic classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="46. Generic classes" />
+    <MESSAGE value="48. Generic upper bounded wildcards" />
+    <option name="LAST_COMMIT_MESSAGE" value="48. Generic upper bounded wildcards" />
   </component>
 </project>
