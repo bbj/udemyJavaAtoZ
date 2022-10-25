@@ -12,7 +12,7 @@ public class App {
 
 	/**
 	 * Lists
-	 * 
+	 *
 	 * List: A list is an ordered collection of elements that allows duplicate
 	 * entries. Elements in a list can be accessed by an int index.
 	 * 
@@ -91,7 +91,7 @@ public class App {
 
 		// creating Vector
 		System.out.println(); // separation line
-		Vector<String> v = new Vector<String>();
+		Vector<String> v = new Vector<>();
 		v.addElement("red");
 		v.addElement("blue");
 		v.addElement("green");

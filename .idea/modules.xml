@@ -21,6 +21,8 @@
       <module fileurl="file://$PROJECT_DIR$/m46GenericClasses/m46GenericClasses.iml" filepath="$PROJECT_DIR$/m46GenericClasses/m46GenericClasses.iml" />
       <module fileurl="file://$PROJECT_DIR$/m48GenericBoundedWildcards/m48GenericBoundedWildcards.iml" filepath="$PROJECT_DIR$/m48GenericBoundedWildcards/m48GenericBoundedWildcards.iml" />
       <module fileurl="file://$PROJECT_DIR$/m52ArrayListAndLinkedList/m52ArrayListAndLinkedList.iml" filepath="$PROJECT_DIR$/m52ArrayListAndLinkedList/m52ArrayListAndLinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m53PriorityQueue/m53PriorityQueue.iml" filepath="$PROJECT_DIR$/m53PriorityQueue/m53PriorityQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m54ArrayDeque/m54ArrayDeque.iml" filepath="$PROJECT_DIR$/m54ArrayDeque/m54ArrayDeque.iml" />
       <module fileurl="file://$PROJECT_DIR$/udemyJavaAtoZ.iml" filepath="$PROJECT_DIR$/udemyJavaAtoZ.iml" />
     </modules>
   </component>
