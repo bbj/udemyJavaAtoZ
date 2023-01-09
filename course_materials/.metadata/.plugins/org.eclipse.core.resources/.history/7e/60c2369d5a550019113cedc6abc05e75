@@ -12,7 +12,7 @@ public class App {
 		 * Nested try block
 		 */
 
-		// Main try block
+		// App try block
 		try {
 
 			int exampleArray[] = { 1, 2, 3, 4, 5 };
