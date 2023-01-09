@@ -4,38 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4986579-eccb-4db8-9f92-34ab8ec753e9" name="Changes" comment="58. Local inner classes">
-      <change afterPath="$PROJECT_DIR$/m59MemberInnerClasses/m59MemberInnerClasses.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m59MemberInnerClasses/src/com/bbj/app/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m59MemberInnerClasses/src/com/bbj/app/OutsideClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="b4986579-eccb-4db8-9f92-34ab8ec753e9" name="Changes" comment="59. Member inner classes">
+      <change afterPath="$PROJECT_DIR$/m60StaticNestedClasses/m60StaticNestedClasses.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m60StaticNestedClasses/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m60StaticNestedClasses/src/OutsideClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course_materials/.metadata/.log" beforeDir="false" afterPath="$PROJECT_DIR$/course_materials/.metadata/.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/1a/80fe9b284f550019113cedc6abc05e75" beforeDir="false" afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/1a/80fe9b284f550019113cedc6abc05e75" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/1a/e0ccdd174f550019113cedc6abc05e75" beforeDir="false" afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/1a/e0ccdd174f550019113cedc6abc05e75" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/1b/708f56804d550019113cedc6abc05e75" beforeDir="false" afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/1b/708f56804d550019113cedc6abc05e75" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/1d/10e562834d550019113cedc6abc05e75" beforeDir="false" afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/1d/10e562834d550019113cedc6abc05e75" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/40/8041c49f4e550019113cedc6abc05e75" beforeDir="false" afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/40/8041c49f4e550019113cedc6abc05e75" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/4b/50a5c3ef4d550019113cedc6abc05e75" beforeDir="false" afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/4b/50a5c3ef4d550019113cedc6abc05e75" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/4c/60ae05484f550019113cedc6abc05e75" beforeDir="false" afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/4c/60ae05484f550019113cedc6abc05e75" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/53/405d538a4e550019113cedc6abc05e75" beforeDir="false" afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/53/405d538a4e550019113cedc6abc05e75" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/5a/407848d44e550019113cedc6abc05e75" beforeDir="false" afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/5a/407848d44e550019113cedc6abc05e75" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/67/70d370584e550019113cedc6abc05e75" beforeDir="false" afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/67/70d370584e550019113cedc6abc05e75" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/74/40f93aaa5a550019113cedc6abc05e75" beforeDir="false" afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/74/40f93aaa5a550019113cedc6abc05e75" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/75/c0a7835e4d550019113cedc6abc05e75" beforeDir="false" afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/75/c0a7835e4d550019113cedc6abc05e75" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/78/f077e5334d550019113cedc6abc05e75" beforeDir="false" afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/78/f077e5334d550019113cedc6abc05e75" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/7e/60c2369d5a550019113cedc6abc05e75" beforeDir="false" afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/7e/60c2369d5a550019113cedc6abc05e75" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/87/50fccae14d550019113cedc6abc05e75" beforeDir="false" afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/87/50fccae14d550019113cedc6abc05e75" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/9e/708f58d34d550019113cedc6abc05e75" beforeDir="false" afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/9e/708f58d34d550019113cedc6abc05e75" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/a1/e04e3ce84d550019113cedc6abc05e75" beforeDir="false" afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/a1/e04e3ce84d550019113cedc6abc05e75" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/aa/70bb7c2d4e550019113cedc6abc05e75" beforeDir="false" afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/aa/70bb7c2d4e550019113cedc6abc05e75" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/c4/3073c07e5a550019113cedc6abc05e75" beforeDir="false" afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/c4/3073c07e5a550019113cedc6abc05e75" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/d0/0005c0694f550019113cedc6abc05e75" beforeDir="false" afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/d0/0005c0694f550019113cedc6abc05e75" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/de/a00521474d550019113cedc6abc05e75" beforeDir="false" afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/de/a00521474d550019113cedc6abc05e75" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/f5/2002ba885a550019113cedc6abc05e75" beforeDir="false" afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.core.resources/.history/f5/2002ba885a550019113cedc6abc05e75" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" beforeDir="false" afterPath="$PROJECT_DIR$/course_materials/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,7 +91,7 @@
       <recent name="$PROJECT_DIR$/m52ArrayListAndLinkedList/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.App (1)">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.bbj.app.App" />
       <module name="m59MemberInnerClasses" />
@@ -170,15 +144,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.udemy.app.App (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.udemy.app.App" />
-      <module name="m55Sets" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.udemy.app.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="m60StaticNestedClasses" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -192,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.App (1)" />
         <item itemvalue="Application.App" />
         <item itemvalue="Application.BbjApp" />
         <item itemvalue="Application.BBJApp" />
-        <item itemvalue="Application.com.udemy.app.App (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -222,7 +190,7 @@
       <workItem from="1666474028680" duration="1000" />
       <workItem from="1666662685950" duration="18406000" />
       <workItem from="1673200463370" duration="8258000" />
-      <workItem from="1673267872041" duration="1949000" />
+      <workItem from="1673267872041" duration="4115000" />
     </task>
     <task id="LOCAL-00001" summary="adding source code">
       <created>1665797506147</created>
@@ -294,7 +262,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673260895027</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="59. Member inner classes">
+      <created>1673292196029</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1673292196029</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -324,6 +299,7 @@
     <MESSAGE value="54. ArrayDeque" />
     <MESSAGE value="56. HashMap, LinkedHashMap and TreeMap" />
     <MESSAGE value="58. Local inner classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="58. Local inner classes" />
+    <MESSAGE value="59. Member inner classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="59. Member inner classes" />
   </component>
 </project>
