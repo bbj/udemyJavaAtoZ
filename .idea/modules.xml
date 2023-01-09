@@ -25,6 +25,7 @@
       <module fileurl="file://$PROJECT_DIR$/m54ArrayDeque/m54ArrayDeque.iml" filepath="$PROJECT_DIR$/m54ArrayDeque/m54ArrayDeque.iml" />
       <module fileurl="file://$PROJECT_DIR$/m55Sets/m55Sets.iml" filepath="$PROJECT_DIR$/m55Sets/m55Sets.iml" />
       <module fileurl="file://$PROJECT_DIR$/m56Maps/m56Maps.iml" filepath="$PROJECT_DIR$/m56Maps/m56Maps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m58LocalInnerClasses/m58LocalInnerClasses.iml" filepath="$PROJECT_DIR$/m58LocalInnerClasses/m58LocalInnerClasses.iml" />
       <module fileurl="file://$PROJECT_DIR$/udemyJavaAtoZ.iml" filepath="$PROJECT_DIR$/udemyJavaAtoZ.iml" />
     </modules>
   </component>
