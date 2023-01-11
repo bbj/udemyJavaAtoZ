@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4986579-eccb-4db8-9f92-34ab8ec753e9" name="Changes" comment="63. Exceptions example I">
-      <change afterPath="$PROJECT_DIR$/m64ExceptionsExampleII/m64ExceptionsExampleII.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m64ExceptionsExampleII/src/Main.java" afterDir="false" />
+    <list default="true" id="b4986579-eccb-4db8-9f92-34ab8ec753e9" name="Changes" comment="64. Exceptions example II">
+      <change afterPath="$PROJECT_DIR$/m65ExceptionsExampleIII/m65ExceptionsExampleIII.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m65ExceptionsExampleIII/src/ChildClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m65ExceptionsExampleIII/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m65ExceptionsExampleIII/src/ParentClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -35,8 +37,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -177,7 +179,7 @@
       <workItem from="1666474028680" duration="1000" />
       <workItem from="1666662685950" duration="18406000" />
       <workItem from="1673200463370" duration="8258000" />
-      <workItem from="1673267872041" duration="10488000" />
+      <workItem from="1673267872041" duration="16030000" />
     </task>
     <task id="LOCAL-00001" summary="adding source code">
       <created>1665797506147</created>
@@ -284,7 +286,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673432787058</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="64. Exceptions example II">
+      <created>1673433631263</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1673433631263</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -318,6 +327,7 @@
     <MESSAGE value="60. Static nested classes" />
     <MESSAGE value="61. Anonymous inner classes" />
     <MESSAGE value="63. Exceptions example I" />
-    <option name="LAST_COMMIT_MESSAGE" value="63. Exceptions example I" />
+    <MESSAGE value="64. Exceptions example II" />
+    <option name="LAST_COMMIT_MESSAGE" value="64. Exceptions example II" />
   </component>
 </project>
