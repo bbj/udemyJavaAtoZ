@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4986579-eccb-4db8-9f92-34ab8ec753e9" name="Changes" comment="60. Static nested classes">
-      <change afterPath="$PROJECT_DIR$/m61AnonymousInnerClasses/m61AnonymousInnerClasses.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m61AnonymousInnerClasses/src/AbstractClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m61AnonymousInnerClasses/src/AbstractInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m61AnonymousInnerClasses/src/Main.java" afterDir="false" />
+    <list default="true" id="b4986579-eccb-4db8-9f92-34ab8ec753e9" name="Changes" comment="61. Anonymous inner classes">
+      <change afterPath="$PROJECT_DIR$/m63ExceptionsExampleI/m63ExceptionsExampleI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m63ExceptionsExampleI/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -92,7 +90,7 @@
       <recent name="$PROJECT_DIR$/m52ArrayListAndLinkedList/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.bbj.app.App" />
       <module name="m59MemberInnerClasses" />
@@ -119,9 +117,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BBJApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.udemy.app.BBJApp" />
-      <module name="m55Sets" />
+    <configuration name="BbjApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.udemy.app.BbjApp" />
+      <module name="m56Maps" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.udemy.app.*" />
@@ -132,15 +130,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BbjApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.udemy.app.BbjApp" />
-      <module name="m56Maps" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.udemy.app.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="m63ExceptionsExampleI" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -161,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.App (1)" />
         <item itemvalue="Application.App" />
         <item itemvalue="Application.BbjApp" />
-        <item itemvalue="Application.BBJApp" />
       </list>
     </recent_temporary>
   </component>
@@ -191,7 +183,7 @@
       <workItem from="1666474028680" duration="1000" />
       <workItem from="1666662685950" duration="18406000" />
       <workItem from="1673200463370" duration="8258000" />
-      <workItem from="1673267872041" duration="8875000" />
+      <workItem from="1673267872041" duration="9644000" />
     </task>
     <task id="LOCAL-00001" summary="adding source code">
       <created>1665797506147</created>
@@ -277,7 +269,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673299706460</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="61. Anonymous inner classes">
+      <created>1673431996763</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1673431996763</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -309,6 +308,7 @@
     <MESSAGE value="58. Local inner classes" />
     <MESSAGE value="59. Member inner classes" />
     <MESSAGE value="60. Static nested classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="60. Static nested classes" />
+    <MESSAGE value="61. Anonymous inner classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="61. Anonymous inner classes" />
   </component>
 </project>
