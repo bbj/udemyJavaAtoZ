@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4986579-eccb-4db8-9f92-34ab8ec753e9" name="Changes" comment="59. Member inner classes">
-      <change afterPath="$PROJECT_DIR$/m60StaticNestedClasses/m60StaticNestedClasses.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m60StaticNestedClasses/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m60StaticNestedClasses/src/OutsideClass.java" afterDir="false" />
+    <list default="true" id="b4986579-eccb-4db8-9f92-34ab8ec753e9" name="Changes" comment="60. Static nested classes">
+      <change afterPath="$PROJECT_DIR$/m61AnonymousInnerClasses/m61AnonymousInnerClasses.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m61AnonymousInnerClasses/src/AbstractClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m61AnonymousInnerClasses/src/AbstractInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m61AnonymousInnerClasses/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -36,8 +37,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -190,7 +191,7 @@
       <workItem from="1666474028680" duration="1000" />
       <workItem from="1666662685950" duration="18406000" />
       <workItem from="1673200463370" duration="8258000" />
-      <workItem from="1673267872041" duration="4115000" />
+      <workItem from="1673267872041" duration="8875000" />
     </task>
     <task id="LOCAL-00001" summary="adding source code">
       <created>1665797506147</created>
@@ -269,7 +270,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673292196029</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="60. Static nested classes">
+      <created>1673299706460</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1673299706460</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -300,6 +308,7 @@
     <MESSAGE value="56. HashMap, LinkedHashMap and TreeMap" />
     <MESSAGE value="58. Local inner classes" />
     <MESSAGE value="59. Member inner classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="59. Member inner classes" />
+    <MESSAGE value="60. Static nested classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="60. Static nested classes" />
   </component>
 </project>
