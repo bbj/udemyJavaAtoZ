@@ -32,6 +32,7 @@
       <module fileurl="file://$PROJECT_DIR$/m63ExceptionsExampleI/m63ExceptionsExampleI.iml" filepath="$PROJECT_DIR$/m63ExceptionsExampleI/m63ExceptionsExampleI.iml" />
       <module fileurl="file://$PROJECT_DIR$/m64ExceptionsExampleII/m64ExceptionsExampleII.iml" filepath="$PROJECT_DIR$/m64ExceptionsExampleII/m64ExceptionsExampleII.iml" />
       <module fileurl="file://$PROJECT_DIR$/m65ExceptionsExampleIII/m65ExceptionsExampleIII.iml" filepath="$PROJECT_DIR$/m65ExceptionsExampleIII/m65ExceptionsExampleIII.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m68DifferentTypesOfInheritance/m68DifferentTypesOfInheritance.iml" filepath="$PROJECT_DIR$/m68DifferentTypesOfInheritance/m68DifferentTypesOfInheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/udemyJavaAtoZ.iml" filepath="$PROJECT_DIR$/udemyJavaAtoZ.iml" />
     </modules>
   </component>
