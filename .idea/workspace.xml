@@ -4,17 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4986579-eccb-4db8-9f92-34ab8ec753e9" name="Changes" comment="65. Exceptions example III">
-      <change afterPath="$PROJECT_DIR$/m68DifferentTypesOfInheritance/m68DifferentTypesOfInheritance.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m68DifferentTypesOfInheritance/src/com/bbj/app/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m68DifferentTypesOfInheritance/src/com/bbj/app/GrandChild.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m68DifferentTypesOfInheritance/src/com/bbj/app/HybridClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m68DifferentTypesOfInheritance/src/com/bbj/app/Interface1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m68DifferentTypesOfInheritance/src/com/bbj/app/Interface2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m68DifferentTypesOfInheritance/src/com/bbj/app/Interface3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m68DifferentTypesOfInheritance/src/com/bbj/app/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m68DifferentTypesOfInheritance/src/com/bbj/app/MultipleInterfaces.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m68DifferentTypesOfInheritance/src/com/bbj/app/Parent.java" afterDir="false" />
+    <list default="true" id="b4986579-eccb-4db8-9f92-34ab8ec753e9" name="Changes" comment="68. Different types of inheritance">
+      <change afterPath="$PROJECT_DIR$/m69Polymorphism/m69Polymorphism.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m69Polymorphism/src/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m69Polymorphism/src/GrandChild.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m69Polymorphism/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m69Polymorphism/src/Parent.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -117,20 +112,7 @@
       <recent name="com.bbj.app" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.bbj.app.Main">
-    <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bbj.app.App" />
-      <module name="m59MemberInnerClasses" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.bbj.app.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main (3)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="m63ExceptionsExampleI" />
@@ -141,6 +123,13 @@
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="m64ExceptionsExampleII" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="m69Polymorphism" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -174,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.com.bbj.app.Main" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.App (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -204,7 +193,7 @@
       <workItem from="1666474028680" duration="1000" />
       <workItem from="1666662685950" duration="18406000" />
       <workItem from="1673200463370" duration="8258000" />
-      <workItem from="1673267872041" duration="20055000" />
+      <workItem from="1673267872041" duration="25781000" />
     </task>
     <task id="LOCAL-00001" summary="adding source code">
       <created>1665797506147</created>
@@ -325,7 +314,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673469626245</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="68. Different types of inheritance">
+      <created>1673614711933</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1673614711933</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -361,6 +357,7 @@
     <MESSAGE value="63. Exceptions example I" />
     <MESSAGE value="64. Exceptions example II" />
     <MESSAGE value="65. Exceptions example III" />
-    <option name="LAST_COMMIT_MESSAGE" value="65. Exceptions example III" />
+    <MESSAGE value="68. Different types of inheritance" />
+    <option name="LAST_COMMIT_MESSAGE" value="68. Different types of inheritance" />
   </component>
 </project>
