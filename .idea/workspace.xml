@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4986579-eccb-4db8-9f92-34ab8ec753e9" name="Changes" comment="68. Different types of inheritance">
-      <change afterPath="$PROJECT_DIR$/m69Polymorphism/m69Polymorphism.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m69Polymorphism/src/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m69Polymorphism/src/GrandChild.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m69Polymorphism/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m69Polymorphism/src/Parent.java" afterDir="false" />
+    <list default="true" id="b4986579-eccb-4db8-9f92-34ab8ec753e9" name="Changes" comment="69. Polymorphism with multilevel inheritance and runtime">
+      <change afterPath="$PROJECT_DIR$/m70Encapsulation/m70Encapsulation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m70Encapsulation/src/Cars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m70Encapsulation/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m70Encapsulation/src/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -112,7 +111,7 @@
       <recent name="com.bbj.app" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (3)">
+  <component name="RunManager" selected="Application.Main (4)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="m63ExceptionsExampleI" />
@@ -134,9 +133,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="m60StaticNestedClasses" />
+      <module name="m70Encapsulation" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -163,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.com.bbj.app.Main" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -193,7 +192,7 @@
       <workItem from="1666474028680" duration="1000" />
       <workItem from="1666662685950" duration="18406000" />
       <workItem from="1673200463370" duration="8258000" />
-      <workItem from="1673267872041" duration="25781000" />
+      <workItem from="1673267872041" duration="31885000" />
     </task>
     <task id="LOCAL-00001" summary="adding source code">
       <created>1665797506147</created>
@@ -321,7 +320,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673614711933</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="69. Polymorphism with multilevel inheritance and runtime">
+      <created>1673632514374</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1673632514374</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -358,6 +364,7 @@
     <MESSAGE value="64. Exceptions example II" />
     <MESSAGE value="65. Exceptions example III" />
     <MESSAGE value="68. Different types of inheritance" />
-    <option name="LAST_COMMIT_MESSAGE" value="68. Different types of inheritance" />
+    <MESSAGE value="69. Polymorphism with multilevel inheritance and runtime" />
+    <option name="LAST_COMMIT_MESSAGE" value="69. Polymorphism with multilevel inheritance and runtime" />
   </component>
 </project>
