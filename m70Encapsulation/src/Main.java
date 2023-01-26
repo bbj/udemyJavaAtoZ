@@ -32,8 +32,12 @@ public class Main {
         //    public List<String> getCars() {
         //        return new ArrayList<>(this.cars);
         //    }
-        for(String s: theCars.getCars()) {
+        for(String s: actualCars) {
             System.out.print(s+" ");        //Honda Ford Mercedes BMW
+        }
+        System.out.println();
+        for(String s: theCars.getCars()) {
+            System.out.print(s+" ");        //Honda Ford Mercedes
         }
     }
 }
