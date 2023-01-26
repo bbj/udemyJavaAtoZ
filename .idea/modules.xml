@@ -36,6 +36,7 @@
       <module fileurl="file://$PROJECT_DIR$/m69Polymorphism/m69Polymorphism.iml" filepath="$PROJECT_DIR$/m69Polymorphism/m69Polymorphism.iml" />
       <module fileurl="file://$PROJECT_DIR$/m70Encapsulation/m70Encapsulation.iml" filepath="$PROJECT_DIR$/m70Encapsulation/m70Encapsulation.iml" />
       <module fileurl="file://$PROJECT_DIR$/m72EncapsulationJavaBean/m72EncapsulationJavaBean.iml" filepath="$PROJECT_DIR$/m72EncapsulationJavaBean/m72EncapsulationJavaBean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m73Abstraction_MoreThanInterfaces/m73Abstraction_MoreThanInterfaces.iml" filepath="$PROJECT_DIR$/m73Abstraction_MoreThanInterfaces/m73Abstraction_MoreThanInterfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/udemyJavaAtoZ.iml" filepath="$PROJECT_DIR$/udemyJavaAtoZ.iml" />
     </modules>
   </component>

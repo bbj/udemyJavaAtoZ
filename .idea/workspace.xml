@@ -4,15 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4986579-eccb-4db8-9f92-34ab8ec753e9" name="Changes" comment="69. Polymorphism with multilevel inheritance and runtime">
-      <change afterPath="$PROJECT_DIR$/m72EncapsulationJavaBean/m72EncapsulationJavaBean.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m72EncapsulationJavaBean/src/JavaBeanExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m72EncapsulationJavaBean/src/Main.java" afterDir="false" />
+    <list default="true" id="b4986579-eccb-4db8-9f92-34ab8ec753e9" name="Changes" comment="72. Encapsulation - JavaBean">
+      <change afterPath="$PROJECT_DIR$/m73Abstraction_MoreThanInterfaces/m73Abstraction_MoreThanInterfaces.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m73Abstraction_MoreThanInterfaces/src/com/bbj/app/AnotherInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m73Abstraction_MoreThanInterfaces/src/com/bbj/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m73Abstraction_MoreThanInterfaces/src/com/bbj/app/ModernInterface.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m70Encapsulation/src/Cars.java" beforeDir="false" afterPath="$PROJECT_DIR$/m70Encapsulation/src/Cars.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m70Encapsulation/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/m70Encapsulation/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,8 +38,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -113,10 +112,10 @@
       <recent name="com.bbj.app" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="m64ExceptionsExampleII" />
+  <component name="RunManager" selected="Application.com.bbj.app.App">
+    <configuration name="App" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="App" />
+      <module name="m73Abstraction_MoreThanInterfaces" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -138,6 +137,19 @@
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="m72EncapsulationJavaBean" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.bbj.app.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bbj.app.App" />
+      <module name="m73Abstraction_MoreThanInterfaces" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bbj.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -164,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.bbj.app.App" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.com.bbj.app.Main" />
-        <item itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -197,7 +209,7 @@
       <workItem from="1673267872041" duration="31885000" />
       <workItem from="1673777381159" duration="910000" />
       <workItem from="1673778557664" duration="175000" />
-      <workItem from="1674692624238" duration="2536000" />
+      <workItem from="1674692624238" duration="7387000" />
     </task>
     <task id="LOCAL-00001" summary="adding source code">
       <created>1665797506147</created>
@@ -332,7 +344,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673632514374</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="72. Encapsulation - JavaBean">
+      <created>1674695487357</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1674695487357</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -370,6 +389,7 @@
     <MESSAGE value="65. Exceptions example III" />
     <MESSAGE value="68. Different types of inheritance" />
     <MESSAGE value="69. Polymorphism with multilevel inheritance and runtime" />
-    <option name="LAST_COMMIT_MESSAGE" value="69. Polymorphism with multilevel inheritance and runtime" />
+    <MESSAGE value="72. Encapsulation - JavaBean" />
+    <option name="LAST_COMMIT_MESSAGE" value="72. Encapsulation - JavaBean" />
   </component>
 </project>
