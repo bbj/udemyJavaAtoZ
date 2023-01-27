@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4986579-eccb-4db8-9f92-34ab8ec753e9" name="Changes" comment="72. Encapsulation - JavaBean">
-      <change afterPath="$PROJECT_DIR$/m73Abstraction_MoreThanInterfaces/m73Abstraction_MoreThanInterfaces.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m73Abstraction_MoreThanInterfaces/src/com/bbj/app/AnotherInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m73Abstraction_MoreThanInterfaces/src/com/bbj/app/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m73Abstraction_MoreThanInterfaces/src/com/bbj/app/ModernInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="b4986579-eccb-4db8-9f92-34ab8ec753e9" name="Changes" comment="73. Abstraction - more about interfaces">
+      <change afterPath="$PROJECT_DIR$/m74Abstraction_NestedInterfaces/m74Abstraction_NestedInterfaces.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m74Abstraction_NestedInterfaces/src/com/bbj/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m74Abstraction_NestedInterfaces/src/com/bbj/app/OuterClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m74Abstraction_NestedInterfaces/src/com/bbj/app/OuterInterface.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -38,8 +37,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -106,13 +105,14 @@
       <recent name="$PROJECT_DIR$/m52ArrayListAndLinkedList/src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/m74Abstraction_NestedInterfaces/src/com/bbj/app" />
       <recent name="$PROJECT_DIR$/m68DifferentTypesOfInheritance/src/com/bbj/app" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.bbj.app" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.bbj.app.App">
+  <component name="RunManager" selected="Application.com.bbj.app.App (1)">
     <configuration name="App" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="App" />
       <module name="m73Abstraction_MoreThanInterfaces" />
@@ -141,9 +141,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.bbj.app.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="com.bbj.app.App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.bbj.app.App" />
-      <module name="m73Abstraction_MoreThanInterfaces" />
+      <module name="m74Abstraction_NestedInterfaces" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.bbj.app.*" />
@@ -154,9 +154,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.bbj.app.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bbj.app.Main" />
-      <module name="m68DifferentTypesOfInheritance" />
+    <configuration name="com.bbj.app.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bbj.app.App" />
+      <module name="m73Abstraction_MoreThanInterfaces" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.bbj.app.*" />
@@ -176,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.bbj.app.App (1)" />
         <item itemvalue="Application.com.bbj.app.App" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.com.bbj.app.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -209,7 +209,8 @@
       <workItem from="1673267872041" duration="31885000" />
       <workItem from="1673777381159" duration="910000" />
       <workItem from="1673778557664" duration="175000" />
-      <workItem from="1674692624238" duration="7387000" />
+      <workItem from="1674692624238" duration="9497000" />
+      <workItem from="1674779447819" duration="1397000" />
     </task>
     <task id="LOCAL-00001" summary="adding source code">
       <created>1665797506147</created>
@@ -351,7 +352,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674695487357</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="73. Abstraction - more about interfaces">
+      <created>1674702967873</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1674702967873</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -390,6 +398,7 @@
     <MESSAGE value="68. Different types of inheritance" />
     <MESSAGE value="69. Polymorphism with multilevel inheritance and runtime" />
     <MESSAGE value="72. Encapsulation - JavaBean" />
-    <option name="LAST_COMMIT_MESSAGE" value="72. Encapsulation - JavaBean" />
+    <MESSAGE value="73. Abstraction - more about interfaces" />
+    <option name="LAST_COMMIT_MESSAGE" value="73. Abstraction - more about interfaces" />
   </component>
 </project>
