@@ -4,11 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4986579-eccb-4db8-9f92-34ab8ec753e9" name="Changes" comment="73. Abstraction - more about interfaces">
-      <change afterPath="$PROJECT_DIR$/m74Abstraction_NestedInterfaces/m74Abstraction_NestedInterfaces.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m74Abstraction_NestedInterfaces/src/com/bbj/app/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m74Abstraction_NestedInterfaces/src/com/bbj/app/OuterClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m74Abstraction_NestedInterfaces/src/com/bbj/app/OuterInterface.java" afterDir="false" />
+    <list default="true" id="b4986579-eccb-4db8-9f92-34ab8ec753e9" name="Changes" comment="74. Abstraction - nested interface">
+      <change afterPath="$PROJECT_DIR$/m76Serialization_example/m76Serialization_example.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m76Serialization_example/src/com/bbj/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m76Serialization_example/src/com/bbj/app/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m76Serialization_example/src/com/bbj/app/Ford.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serialization.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -62,7 +65,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2G5ofonHHh2JGftoEL7XvZnb7iy" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -91,6 +94,7 @@
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;,
     &quot;spring.configuration.checksum&quot;: &quot;8deb25533bb35d22faeddd034870dc5a&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
@@ -112,17 +116,10 @@
       <recent name="com.bbj.app" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.bbj.app.App (1)">
+  <component name="RunManager" selected="Application.com.bbj.app.App (2)">
     <configuration name="App" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="App" />
       <module name="m73Abstraction_MoreThanInterfaces" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="m69Polymorphism" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -144,6 +141,19 @@
     <configuration name="com.bbj.app.App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.bbj.app.App" />
       <module name="m74Abstraction_NestedInterfaces" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bbj.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.bbj.app.App (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bbj.app.App" />
+      <module name="m76Serialization_example" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.bbj.app.*" />
@@ -176,11 +186,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.bbj.app.App (2)" />
         <item itemvalue="Application.com.bbj.app.App (1)" />
         <item itemvalue="Application.com.bbj.app.App" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -210,7 +220,8 @@
       <workItem from="1673777381159" duration="910000" />
       <workItem from="1673778557664" duration="175000" />
       <workItem from="1674692624238" duration="9497000" />
-      <workItem from="1674779447819" duration="1397000" />
+      <workItem from="1674779447819" duration="5140000" />
+      <workItem from="1674786934721" duration="6068000" />
     </task>
     <task id="LOCAL-00001" summary="adding source code">
       <created>1665797506147</created>
@@ -359,7 +370,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674702967873</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="74. Abstraction - nested interface">
+      <created>1674781922705</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1674781922705</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -399,6 +417,7 @@
     <MESSAGE value="69. Polymorphism with multilevel inheritance and runtime" />
     <MESSAGE value="72. Encapsulation - JavaBean" />
     <MESSAGE value="73. Abstraction - more about interfaces" />
-    <option name="LAST_COMMIT_MESSAGE" value="73. Abstraction - more about interfaces" />
+    <MESSAGE value="74. Abstraction - nested interface" />
+    <option name="LAST_COMMIT_MESSAGE" value="74. Abstraction - nested interface" />
   </component>
 </project>
