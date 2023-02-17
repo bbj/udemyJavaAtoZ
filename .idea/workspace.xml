@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4986579-eccb-4db8-9f92-34ab8ec753e9" name="Changes" comment="74. Abstraction - nested interface">
-      <change afterPath="$PROJECT_DIR$/m76Serialization_example/m76Serialization_example.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m76Serialization_example/src/com/bbj/app/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m76Serialization_example/src/com/bbj/app/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m76Serialization_example/src/com/bbj/app/Ford.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/serialization.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="b4986579-eccb-4db8-9f92-34ab8ec753e9" name="Changes" comment="76. Serialization example">
+      <change afterPath="$PROJECT_DIR$/m78LambdaExpression/m78LambdaExpression.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m78LambdaExpression/src/com/bbj/Greeting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m78LambdaExpression/src/com/bbj/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m78LambdaExpression/src/com/bbj/Sum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -40,8 +37,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -109,6 +106,7 @@
       <recent name="$PROJECT_DIR$/m52ArrayListAndLinkedList/src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/m78LambdaExpression/src/com/bbj" />
       <recent name="$PROJECT_DIR$/m74Abstraction_NestedInterfaces/src/com/bbj/app" />
       <recent name="$PROJECT_DIR$/m68DifferentTypesOfInheritance/src/com/bbj/app" />
     </key>
@@ -116,7 +114,7 @@
       <recent name="com.bbj.app" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.bbj.app.App (2)">
+  <component name="RunManager" selected="Application.com.bbj.Main">
     <configuration name="App" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="App" />
       <module name="m73Abstraction_MoreThanInterfaces" />
@@ -124,16 +122,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="m70Encapsulation" />
+      <module name="m72EncapsulationJavaBean" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="m72EncapsulationJavaBean" />
+    <configuration name="com.bbj.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bbj.Main" />
+      <module name="m78LambdaExpression" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bbj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -186,11 +190,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.bbj.Main" />
         <item itemvalue="Application.com.bbj.app.App (2)" />
         <item itemvalue="Application.com.bbj.app.App (1)" />
         <item itemvalue="Application.com.bbj.app.App" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -221,7 +225,9 @@
       <workItem from="1673778557664" duration="175000" />
       <workItem from="1674692624238" duration="9497000" />
       <workItem from="1674779447819" duration="5140000" />
-      <workItem from="1674786934721" duration="6068000" />
+      <workItem from="1674786934721" duration="7491000" />
+      <workItem from="1675096114410" duration="125000" />
+      <workItem from="1676595410690" duration="2266000" />
     </task>
     <task id="LOCAL-00001" summary="adding source code">
       <created>1665797506147</created>
@@ -377,7 +383,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674781922705</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="76. Serialization example">
+      <created>1674794961805</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1674794961805</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -418,6 +431,7 @@
     <MESSAGE value="72. Encapsulation - JavaBean" />
     <MESSAGE value="73. Abstraction - more about interfaces" />
     <MESSAGE value="74. Abstraction - nested interface" />
-    <option name="LAST_COMMIT_MESSAGE" value="74. Abstraction - nested interface" />
+    <MESSAGE value="76. Serialization example" />
+    <option name="LAST_COMMIT_MESSAGE" value="76. Serialization example" />
   </component>
 </project>

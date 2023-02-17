@@ -39,6 +39,7 @@
       <module fileurl="file://$PROJECT_DIR$/m73Abstraction_MoreThanInterfaces/m73Abstraction_MoreThanInterfaces.iml" filepath="$PROJECT_DIR$/m73Abstraction_MoreThanInterfaces/m73Abstraction_MoreThanInterfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/m74Abstraction_NestedInterfaces/m74Abstraction_NestedInterfaces.iml" filepath="$PROJECT_DIR$/m74Abstraction_NestedInterfaces/m74Abstraction_NestedInterfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/m76Serialization_example/m76Serialization_example.iml" filepath="$PROJECT_DIR$/m76Serialization_example/m76Serialization_example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m78LambdaExpression/m78LambdaExpression.iml" filepath="$PROJECT_DIR$/m78LambdaExpression/m78LambdaExpression.iml" />
       <module fileurl="file://$PROJECT_DIR$/udemyJavaAtoZ.iml" filepath="$PROJECT_DIR$/udemyJavaAtoZ.iml" />
     </modules>
   </component>
