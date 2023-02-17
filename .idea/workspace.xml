@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4986579-eccb-4db8-9f92-34ab8ec753e9" name="Changes" comment="78. Lambda expression">
-      <change afterPath="$PROJECT_DIR$/m79FunctionalInterfaces/m79FunctionalInterfaces.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m79FunctionalInterfaces/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m79FunctionalInterfaces/src/Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m81MethodReferencesEx1/m81MethodReferencesEx1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m81MethodReferencesEx1/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m81MethodReferencesEx1/src/MessageClass.java" afterDir="false" />
+    <list default="true" id="b4986579-eccb-4db8-9f92-34ab8ec753e9" name="Changes" comment="81. Method references example I">
+      <change afterPath="$PROJECT_DIR$/m83MethodReferencesEx2/m83MethodReferencesEx2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m83MethodReferencesEx2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m83MethodReferencesEx2/src/Sum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -39,8 +36,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -108,6 +105,7 @@
       <recent name="$PROJECT_DIR$/m52ArrayListAndLinkedList/src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/m83MethodReferencesEx2/src" />
       <recent name="$PROJECT_DIR$/m78LambdaExpression/src/com/bbj" />
       <recent name="$PROJECT_DIR$/m74Abstraction_NestedInterfaces/src/com/bbj/app" />
       <recent name="$PROJECT_DIR$/m68DifferentTypesOfInheritance/src/com/bbj/app" />
@@ -116,7 +114,7 @@
       <recent name="com.bbj.app" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="App" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="App" />
       <module name="m73Abstraction_MoreThanInterfaces" />
@@ -127,6 +125,13 @@
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="m79FunctionalInterfaces" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="m83MethodReferencesEx2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -144,19 +149,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.bbj.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.bbj.app.App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bbj.app.App" />
-      <module name="m74Abstraction_NestedInterfaces" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.bbj.app.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -186,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.com.bbj.Main" />
         <item itemvalue="Application.com.bbj.app.App (2)" />
-        <item itemvalue="Application.com.bbj.app.App (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -223,7 +215,8 @@
       <workItem from="1674779447819" duration="5140000" />
       <workItem from="1674786934721" duration="7491000" />
       <workItem from="1675096114410" duration="125000" />
-      <workItem from="1676595410690" duration="10627000" />
+      <workItem from="1676595410690" duration="11057000" />
+      <workItem from="1676662139459" duration="2500000" />
     </task>
     <task id="LOCAL-00001" summary="adding source code">
       <created>1665797506147</created>
@@ -393,7 +386,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676597711580</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="81. Method references example I">
+      <created>1676613880749</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1676613880749</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -436,6 +436,7 @@
     <MESSAGE value="74. Abstraction - nested interface" />
     <MESSAGE value="76. Serialization example" />
     <MESSAGE value="78. Lambda expression" />
-    <option name="LAST_COMMIT_MESSAGE" value="78. Lambda expression" />
+    <MESSAGE value="81. Method references example I" />
+    <option name="LAST_COMMIT_MESSAGE" value="81. Method references example I" />
   </component>
 </project>

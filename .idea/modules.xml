@@ -42,6 +42,7 @@
       <module fileurl="file://$PROJECT_DIR$/m78LambdaExpression/m78LambdaExpression.iml" filepath="$PROJECT_DIR$/m78LambdaExpression/m78LambdaExpression.iml" />
       <module fileurl="file://$PROJECT_DIR$/m79FunctionalInterfaces/m79FunctionalInterfaces.iml" filepath="$PROJECT_DIR$/m79FunctionalInterfaces/m79FunctionalInterfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/m81MethodReferencesEx1/m81MethodReferencesEx1.iml" filepath="$PROJECT_DIR$/m81MethodReferencesEx1/m81MethodReferencesEx1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m83MethodReferencesEx2/m83MethodReferencesEx2.iml" filepath="$PROJECT_DIR$/m83MethodReferencesEx2/m83MethodReferencesEx2.iml" />
       <module fileurl="file://$PROJECT_DIR$/udemyJavaAtoZ.iml" filepath="$PROJECT_DIR$/udemyJavaAtoZ.iml" />
     </modules>
   </component>
