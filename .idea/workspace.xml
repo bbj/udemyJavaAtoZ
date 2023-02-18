@@ -4,12 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4986579-eccb-4db8-9f92-34ab8ec753e9" name="Changes" comment="81. Method references example I">
-      <change afterPath="$PROJECT_DIR$/m83MethodReferencesEx2/m83MethodReferencesEx2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m83MethodReferencesEx2/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m83MethodReferencesEx2/src/Sum.java" afterDir="false" />
+    <list default="true" id="b4986579-eccb-4db8-9f92-34ab8ec753e9" name="Changes" comment="82. Method references example II">
+      <change afterPath="$PROJECT_DIR$/m83ForeachWithLambdaAndMethodRef/m83ForeachWithLambdaAndMethodRef.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m83ForeachWithLambdaAndMethodRef/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m83MethodReferencesEx2/m83MethodReferencesEx2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/m82MethodReferencesEx2/m82MethodReferencesEx2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m83MethodReferencesEx2/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/m82MethodReferencesEx2/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m83MethodReferencesEx2/src/Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/m82MethodReferencesEx2/src/Sum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +116,7 @@
       <recent name="com.bbj.app" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.Main (3)">
     <configuration name="App" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="App" />
       <module name="m73Abstraction_MoreThanInterfaces" />
@@ -131,7 +133,14 @@
     </configuration>
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="m83MethodReferencesEx2" />
+      <module name="m82MethodReferencesEx2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="m83ForeachWithLambdaAndMethodRef" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -156,19 +165,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.bbj.app.App (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bbj.app.App" />
-      <module name="m76Serialization_example" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.bbj.app.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="M58LocalInnerClassesApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="m58LocalInnerClasses.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.m58localinnerclasses.M58LocalInnerClassesApplication" />
@@ -178,11 +174,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.com.bbj.Main" />
-        <item itemvalue="Application.com.bbj.app.App (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -216,7 +212,8 @@
       <workItem from="1674786934721" duration="7491000" />
       <workItem from="1675096114410" duration="125000" />
       <workItem from="1676595410690" duration="11057000" />
-      <workItem from="1676662139459" duration="2500000" />
+      <workItem from="1676662139459" duration="3348000" />
+      <workItem from="1676757062415" duration="3589000" />
     </task>
     <task id="LOCAL-00001" summary="adding source code">
       <created>1665797506147</created>
@@ -393,7 +390,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676613880749</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="82. Method references example II">
+      <created>1676664877642</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1676664877642</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -437,6 +441,10 @@
     <MESSAGE value="76. Serialization example" />
     <MESSAGE value="78. Lambda expression" />
     <MESSAGE value="81. Method references example I" />
-    <option name="LAST_COMMIT_MESSAGE" value="81. Method references example I" />
+    <MESSAGE value="82. Method references example II" />
+    <option name="LAST_COMMIT_MESSAGE" value="82. Method references example II" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/udemyJavaAtoZ$Main__2_.ic" NAME="Main (2) Coverage Results" MODIFIED="1676757262656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
