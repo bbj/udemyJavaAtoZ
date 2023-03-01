@@ -4,14 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4986579-eccb-4db8-9f92-34ab8ec753e9" name="Changes" comment="82. Method references example II">
-      <change afterPath="$PROJECT_DIR$/m83ForeachWithLambdaAndMethodRef/m83ForeachWithLambdaAndMethodRef.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m83ForeachWithLambdaAndMethodRef/src/Main.java" afterDir="false" />
+    <list default="true" id="b4986579-eccb-4db8-9f92-34ab8ec753e9" name="Changes" comment="83. forEach with lambda and method reference">
+      <change afterPath="$PROJECT_DIR$/m85Optional/m85Optional.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m85Optional/src/com/bbj/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m85Optional/src/com/bbj/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m86OptionalMap/m86OptionalMap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m86OptionalMap/src/com/bbj/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m86OptionalMap/src/com/bbj/Passport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m86OptionalMap/src/com/bbj/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m86OptionalMap/src/com/bbj/Stamp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m88StreamOperations/m88StreamOperations.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m88StreamOperations/src/com/bbj/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m89StreamMethods/m89StreamMethods.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m89StreamMethods/src/com/bbj/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m83MethodReferencesEx2/m83MethodReferencesEx2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/m82MethodReferencesEx2/m82MethodReferencesEx2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m83MethodReferencesEx2/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/m82MethodReferencesEx2/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m83MethodReferencesEx2/src/Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/m82MethodReferencesEx2/src/Sum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,8 +45,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -116,24 +123,10 @@
       <recent name="com.bbj.app" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (3)">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="App" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="App" />
       <module name="m73Abstraction_MoreThanInterfaces" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="m79FunctionalInterfaces" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="m82MethodReferencesEx2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -146,15 +139,47 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="m81MethodReferencesEx1" />
+      <option name="MAIN_CLASS_NAME" value="com.bbj.Main" />
+      <module name="m89StreamMethods" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bbj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.bbj.Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bbj.Main" />
+      <module name="m85Optional" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bbj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.bbj.Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bbj.Main" />
+      <module name="m88StreamOperations" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bbj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="com.bbj.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.bbj.Main" />
-      <module name="m78LambdaExpression" />
+      <module name="m86OptionalMap" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.bbj.*" />
@@ -174,11 +199,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.com.bbj.Main (2)" />
         <item itemvalue="Application.com.bbj.Main" />
+        <item itemvalue="Application.com.bbj.Main (1)" />
+        <item itemvalue="Application.Main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -213,7 +238,10 @@
       <workItem from="1675096114410" duration="125000" />
       <workItem from="1676595410690" duration="11057000" />
       <workItem from="1676662139459" duration="3348000" />
-      <workItem from="1676757062415" duration="3589000" />
+      <workItem from="1676757062415" duration="5007000" />
+      <workItem from="1677352928039" duration="21000" />
+      <workItem from="1677608396340" duration="9491000" />
+      <workItem from="1677629191359" duration="10074000" />
     </task>
     <task id="LOCAL-00001" summary="adding source code">
       <created>1665797506147</created>
@@ -397,7 +425,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676664877642</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="83. forEach with lambda and method reference">
+      <created>1676760813479</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1676760813479</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -442,7 +477,8 @@
     <MESSAGE value="78. Lambda expression" />
     <MESSAGE value="81. Method references example I" />
     <MESSAGE value="82. Method references example II" />
-    <option name="LAST_COMMIT_MESSAGE" value="82. Method references example II" />
+    <MESSAGE value="83. forEach with lambda and method reference" />
+    <option name="LAST_COMMIT_MESSAGE" value="83. forEach with lambda and method reference" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/udemyJavaAtoZ$Main__2_.ic" NAME="Main (2) Coverage Results" MODIFIED="1676757262656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />

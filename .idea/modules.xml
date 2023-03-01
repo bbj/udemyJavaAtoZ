@@ -44,6 +44,10 @@
       <module fileurl="file://$PROJECT_DIR$/m81MethodReferencesEx1/m81MethodReferencesEx1.iml" filepath="$PROJECT_DIR$/m81MethodReferencesEx1/m81MethodReferencesEx1.iml" />
       <module fileurl="file://$PROJECT_DIR$/m82MethodReferencesEx2/m82MethodReferencesEx2.iml" filepath="$PROJECT_DIR$/m82MethodReferencesEx2/m82MethodReferencesEx2.iml" />
       <module fileurl="file://$PROJECT_DIR$/m83ForeachWithLambdaAndMethodRef/m83ForeachWithLambdaAndMethodRef.iml" filepath="$PROJECT_DIR$/m83ForeachWithLambdaAndMethodRef/m83ForeachWithLambdaAndMethodRef.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m85Optional/m85Optional.iml" filepath="$PROJECT_DIR$/m85Optional/m85Optional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m86OptionalMap/m86OptionalMap.iml" filepath="$PROJECT_DIR$/m86OptionalMap/m86OptionalMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m88StreamOperations/m88StreamOperations.iml" filepath="$PROJECT_DIR$/m88StreamOperations/m88StreamOperations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m89StreamMethods/m89StreamMethods.iml" filepath="$PROJECT_DIR$/m89StreamMethods/m89StreamMethods.iml" />
       <module fileurl="file://$PROJECT_DIR$/udemyJavaAtoZ.iml" filepath="$PROJECT_DIR$/udemyJavaAtoZ.iml" />
     </modules>
   </component>
